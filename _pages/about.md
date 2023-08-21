@@ -25,14 +25,12 @@ Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn)
 
 &nbsp;
 
-&nbsp;
-
 Chao Wang is an assistant professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis.  He worked with Prof. Chen-Nee Chuah at the Department of Electrical & Computer Engineering. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. Raymond Chan and worked closely with Prof. Robert Plemmons at Wake Forest University. Previously, he worked with Prof. Yifei Lou at the University of Texas (UT) Dallas and Prof. Xun Jia at UT Southwestern Medical Center.
 
 His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.
 
 # Recent News
-
+---
 - Aug 2023, our work on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 
 - Nov 2022, our Project on Algorithms Study on Early Diagnosis Systems for  Neurodegenerative Disease was funded by the Natural Science Foundation of Shenzhen; total: 1.5 million CNY.

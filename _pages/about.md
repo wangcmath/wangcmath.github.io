@@ -21,7 +21,7 @@ Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn)
 
 [Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
 
-**There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
+**<span style="color:red"> There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.</span>**
 
 &nbsp;
 

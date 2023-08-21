@@ -8,13 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-![profile](/images/profile.png){: .align-right width='300px'}
+![profile](/images/profile.png){: .align-right width='400px'}
 
-Department of Statistics and Data Science, Southern University of Science and Technology, Shenzhen 518055, P.R. China
 
-Email:   wangc6@sustech.edu.cn & chaowang.hk@gmail.com 
+Assistant Professor
 
-There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.  
+Department of Statistics and Data Science
+
+Southern University of Science and Technology, Shenzhen 518055, P.R. China
+
+Email: wangc6@sustech.edu.cn & chaowang.hk@gmail.com
+
+[Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
+
+**There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Chao Wang is an assistant professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis.  He worked with Prof. Chen-Nee Chuah at the Department of Electrical & Computer Engineering. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. Raymond Chan and worked closely with Prof. Robert Plemmons at Wake Forest University. Previously, he worked with Prof. Yifei Lou at the University of Texas (UT) Dallas and Prof. Xun Jia at UT Southwestern Medical Center.
 
@@ -124,4 +137,4 @@ Our HKRGC grant Novel Computational Methods for Three-Dimensional Point Source L
 
 Apr. 2020 
 
-Our work on Accelerated Schemes for the L1/L2 Minimization has been published in IEEE Translations on Singal Processing. 
+Our work on Accelerated Schemes for the L1/L2 Minimization has been published in IEEE Translations on Singal Processing. <br>

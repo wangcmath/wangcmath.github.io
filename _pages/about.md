@@ -18,8 +18,31 @@ There are some openings for graduate students (MSc, Ph.D.), research assistants,
 
 Chao Wang is an assistant professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis.  He worked with Prof. Chen-Nee Chuah at the Department of Electrical & Computer Engineering. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. Raymond Chan and worked closely with Prof. Robert Plemmons at Wake Forest University. Previously, he worked with Prof. Yifei Lou at the University of Texas (UT) Dallas and Prof. Xun Jia at UT Southwestern Medical Center.
 
-His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.  
+His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.
 
+{{< expand 'Recent News' >}}
+
+{{< /expand >}}
+
+Aug 2023
+
+Our work  on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
+
+Nov 2022
+
+Our Project on Algorithms Study on Early Diagnosis Systems for  Neurodegenerative Disease was funded by the Natural Science Foundation of Shenzhen; total: 1.5 million CNY.
+
+Sep 2022
+
+My Project on The Study of Point Spread Function-based Deep Learning Models and Algorithms for Three-dimensional Point Source Localization was funded by Natural Science Foundation of China (NSFC); total: 300 thousand CNY.
+
+Aug 2022
+
+Our work on Noise removal using an adaptive Euler's elastica-based model was accepted by The Visual Computer.
+
+June 2022
+
+Our work on SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning has been selected for a best paper award in 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop. 
 Recent News
 ======
 Aug 2023

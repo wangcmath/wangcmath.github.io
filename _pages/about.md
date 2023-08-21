@@ -19,7 +19,7 @@ Southern University of Science and Technology, Shenzhen 518055, P.R. China
 
 Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn)
 
-[Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en) | [Github](https://github.com/wangcmath)
+[Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
 
 **There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
 
@@ -33,7 +33,7 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 
-- Aug 2023, our work  on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
+- Aug 2023, our work on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 
 - Nov 2022, our Project on Algorithms Study on Early Diagnosis Systems for  Neurodegenerative Disease was funded by the Natural Science Foundation of Shenzhen; total: 1.5 million CNY.
 

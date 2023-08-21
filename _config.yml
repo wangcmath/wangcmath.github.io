@@ -83,9 +83,9 @@ author:
   name             : "Chao Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "ShenZhen"
+  location         : "Shenzhen"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en"
   email            : "mailto:wangc6@sustech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

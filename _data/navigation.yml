@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
   - title: "CV"
     url: https://www.dropbox.com/s/zg3txgt22gepvjc/cv_ChaoWang.pdf?dl=0
 
@@ -12,14 +15,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
 
   - title: "Awards"
     url: /awards/    
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

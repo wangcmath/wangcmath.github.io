@@ -1,50 +1,107 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chao Wang (王超)"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![profile](/images/profile.png){: .align-right width='300px'}
 
-A data-driven personal website
+Department of Statistics and Data Science, Southern University of Science and Technology, Shenzhen 518055, P.R. China
+
+Email:   wangc6@sustech.edu.cn & chaowang.hk@gmail.com 
+
+There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.  
+
+Chao Wang is an assistant professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis.  He worked with Prof. Chen-Nee Chuah at the Department of Electrical & Computer Engineering. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. Raymond Chan and worked closely with Prof. Robert Plemmons at Wake Forest University. Previously, he worked with Prof. Yifei Lou at the University of Texas (UT) Dallas and Prof. Xun Jia at UT Southwestern Medical Center.
+
+His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.  
+
+Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Aug 2023
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Our work  on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Nov 2022
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Our Project on Algorithms Study on Early Diagnosis Systems for  Neurodegenerative Disease was funded by the Natural Science Foundation of Shenzhen; total: 1.5 million CNY.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Sep 2022
 
-**Markdown generator**
+My Project on The Study of Point Spread Function-based Deep Learning Models and Algorithms for Three-dimensional Point Source Localization was funded by Natural Science Foundation of China (NSFC); total: 300 thousand CNY.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Aug 2022
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Our work on Noise removal using an adaptive Euler's elastica-based model was accepted by The Visual Computer.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+June 2022
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Our work on SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning has been selected for a best paper award in 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop. 
+
+May. 2022
+
+Our work on Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution was accepted by The International Conference on Machine Learning (ICML) 2022.  
+
+Our work on Minimizing L1 over L2 norms on the gradient was published by Inverse Problems. See Link.
+
+Our work on The Development of a Deep Reinforcement Learning Network for Dose-Volume-Constrained Treatment Planning in Prostate Cancer Intensity Modulated Radiotherapy was accepted by Biomedical Physics & Engineering Express. See Link. 
+
+Apr. 2022
+
+Our work on SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning was accepted by 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop. 
+
+Feb. 2022
+
+Our work on Simultaneous Image Reconstruction and Element Decomposition for Iodine Contrast Agent Visualization in Multi-energy Element-resolved Cone Beam CT was published in  Frontiers in Oncology; See Link.
+
+Oct. 2021
+
+Our work on Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling was published in Proceedings of the IEEE/CVF International Conference on Computer Vision;  See Link. 
+
+Our paper on Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning is released in arxiv, see Link.
+
+July 2021
+
+Our work on A semi-supervised learning for segmentation of gigapixel histopathology images from brain tissues was accepted by International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). 
+
+June 2021
+
+Our work on Limited-angle CT reconstruction via the L1/L2 minimization. was published by SIAM Journal on Imaging Sciences,  see Link.
+
+May 2021
+
+Our work on Point spread function engineering for 3D imaging using a continuous exact L0 penalty (CEL0) based algorithm was published as a book chapter in Mathematical Methods in Image Processing and Inverse Problems, in Springer,  see Link.
+
+Mar. 2021
+
+Our work on Simultaneous Needle Catheter Selection and Dwell Time Optimization for Preplanning of HDR Brachytherapy of Prostate Cancer was published by Physics in Medicine & Biology;  see Link.
+
+Jan. 2021
+
+Our work on Minimizing L1 over L2 norms on the gradient was submitted to Inverse Problems, see preprint. 
+
+Nov. 2020
+
+Our work on Simultaneous Needle Catheter Selection and Dwell Time Optimization for Preplanning of HDR Brachytherapy of Prostate Cancer was accepted by Physics in Medicine & Biology.
+
+I gave an invited talk in Frontiers in Biomedical Imaging Seminar Series, UCD BME. 
+
+Oct. 2020
+
+I was invited to give two talks in Mathematics of Data and Decisions at Davis, at UCD Math. and Machine Learning Working Group at UCD Health, respectively. 
+
+Jul. 2020 
+
+I received the SIAM Early Career Travel Grant Award. 
+
+Jun. 2020
+
+Our HKRGC grant Novel Computational Methods for Three-Dimensional Point Source Localization based on Point Spread Function Analytics was funded. 
+
+Apr. 2020 
+
+Our work on Accelerated Schemes for the L1/L2 Minimization has been published in IEEE Translations on Singal Processing. 

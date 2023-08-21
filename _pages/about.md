@@ -21,9 +21,6 @@ Chao Wang is an assistant professor at Southern University of Science and Techno
 His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.
 
 {{< expand 'Recent News' >}}
-
-{{< /expand >}}
-
 Aug 2023
 
 Our work  on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
@@ -43,8 +40,8 @@ Our work on Noise removal using an adaptive Euler's elastica-based model was acc
 June 2022
 
 Our work on SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning has been selected for a best paper award in 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop. 
-Recent News
-======
+{{< /expand >}}
+
 Aug 2023
 
 Our work  on Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization was accepted by IEEE Transactions on Geoscience and Remote Sensing. 

@@ -22,7 +22,10 @@ main:
   #  url: /year-archive/
 
   - title: "Awards"
-    url: /awards/    
+    url: /awards/  
     
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "Service"
+    url: /service/

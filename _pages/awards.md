@@ -2,7 +2,7 @@
 layout: archive
 title: 
 permalink: /awards/
-author_profile: false
+author_profile: true
 ---
 
 - Best Paper Award at 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2020

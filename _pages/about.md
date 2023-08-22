@@ -19,7 +19,9 @@ Southern University of Science and Technology, Shenzhen 518055, P.R. China
 
 Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn)
 
-[Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
+<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
+ 
+<i class="fab fa-github"></i> 
 
 **There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
 

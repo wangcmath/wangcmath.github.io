@@ -33,11 +33,11 @@ author_profile: true
 
 [19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. “Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing, 1-12. 2022. See [Link](https://link.springer.com/article/10.1007/s00371-022-02674-0)
 
-[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. “Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution” The International Conference on Machine Learning (ICML). 2022.
+[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. “Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution” The International Conference on Machine Learning (ICML). 2022. See [Link](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)
 
-[17] D. Sprouts, Y. Gao, **C. Wang**, X. Jia, C. Shen, Y. Chi "The Development of a Deep Reinforcement Learning Network for Dose-Volume-Constrained Treatment Planning in Prostate Cancer Intensity Modulated Radiotherapy" Biomedical Physics & Engineering Express. (to appear), 2022. See [Link](https://iopscience.iop.org/article/10.1088/2057-1976/ac6d82).
+[17] D. Sprouts, Y. Gao, **C. Wang**, X. Jia, C. Shen, Y. Chi "The Development of a Deep Reinforcement Learning Network for Dose-Volume-Constrained Treatment Planning in Prostate Cancer Intensity Modulated Radiotherapy" Biomedical Physics & Engineering Express. 2022. See [Link](https://iopscience.iop.org/article/10.1088/2057-1976/ac6d82).
 
-[16] Z. Lai, **C. Wang**<sup>#</sup>, SC. Cheung, CN. Chuah. "SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning" The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) workshop, (to appear), 2022.
+[16] Z. Lai, **C. Wang**<sup>#</sup>, SC. Cheung, CN. Chuah. "SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning" The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2022. See [Link](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf)
 
 [15] **C. Wang**, M. Tao, CN. Chuah, J. Nagy, and Y. Lou<sup>*</sup>. “Minimizing L1 over L2 norms on the gradient.” Inverse Problems. 39 065011, 2022. [PDF](https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb)
 

@@ -15,17 +15,25 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. “Three dimensional localization of space debris using deep learning-based PSF engineering” submitted to International Conference on Image Processing (ICIP)
+[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. “Sorted L1/L2 Minimization for Sparse Signal Recovery” arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
 
-[20] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. “Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning? ”arXiv preprint arXiv:2109.12323
+
+[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou.<sup>*</sup>. “Minimizing Quotient Regularization Model” arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)
+
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. “Robust retrieval of material chemical states in X-ray microspectroscopy” arXiv preprint arXiv:2308.04207. See [Link](https://arxiv.org/pdf/2308.04207)
+
+
+[21] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. “Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning? ”arXiv preprint arXiv:2109.12323. See [Link](https://arxiv.org/pdf/2109.12323)
 
 
 
 ## Accepted/Published
 
-[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. “Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing, 2022, (to appear)
+[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. “Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization”. IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. See [Link](https://ieeexplore.ieee.org/abstract/document/10231145/)
 
-[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. “Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution” The International Conference on Machine Learning (ICML). (to appear) 2022.
+[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. “Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing, 1-12. 2022. See [Link](https://link.springer.com/article/10.1007/s00371-022-02674-0)
+
+[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. “Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution” The International Conference on Machine Learning (ICML). 2022.
 
 [17] D. Sprouts, Y. Gao, **C. Wang**, X. Jia, C. Shen, Y. Chi "The Development of a Deep Reinforcement Learning Network for Dose-Volume-Constrained Treatment Planning in Prostate Cancer Intensity Modulated Radiotherapy" Biomedical Physics & Engineering Express. (to appear), 2022. See [Link](https://iopscience.iop.org/article/10.1088/2057-1976/ac6d82).
 

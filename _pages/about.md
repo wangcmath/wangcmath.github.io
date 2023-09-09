@@ -31,7 +31,7 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
-- Aug 2023, our work on _Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_ was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
+- Aug 2023, our work on _Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_ was published by IEEE Transactions on Geoscience and Remote Sensing. 
 
 - Nov 2022, our Project on _Algorithms Study on Early Diagnosis Systems for  Neurodegenerative Disease_ was funded by the Natural Science Foundation of Shenzhen; total: 1.5 million CNY.
 

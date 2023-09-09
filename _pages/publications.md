@@ -18,7 +18,7 @@ author_profile: true
 [24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. “Sorted L1/L2 Minimization for Sparse Signal Recovery” arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
 
 
-[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou.<sup>*</sup>. “Minimizing Quotient Regularization Model” arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)
+[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. “Minimizing Quotient Regularization Model” arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)
 
 [22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. “Robust retrieval of material chemical states in X-ray microspectroscopy” arXiv preprint arXiv:2308.04207. See [Link](https://arxiv.org/pdf/2308.04207)
 

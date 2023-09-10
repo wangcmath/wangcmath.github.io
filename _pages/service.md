@@ -51,11 +51,13 @@ PhD students:
 -	Mujibur Chowdhury (UT Dallas, Oct. 2020 – Oct. 2021) 
 -	Zhengfeng Lai (UC Davis, July. 2020 - July. 2022)
 -	Gregory Rehm (UC Davis, Jan. 2021 – Jul. 2021)	
+
 MPhil students: 
 -	Zitian Ao  (SUSTech, Sept. 2023 - Present)
 -	Xiaotong Wu  (SUSTech, Sept. 2022 - Present)
 -	Junjie Yu (SUSTech, Sept. 2021 - Jun. 2023)
 -	Vishal Bhuvaneswari (UC Davis, Jan. 2021 – Jan. 2022)
+
 RAs:
 -	Heyu Huang (SUSTech, May 2021 - Jan. 2022)
 -	Shengjie Niu (SUSTech, Apr. 2021 - Present)

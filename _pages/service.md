@@ -4,9 +4,13 @@ title: Service
 permalink: /service/
 author_profile: true
 ---
+## Co-Editor
+Special Issue: Multiple Sensors Fusion for Image Recognition,  Sensors, 2023
+
 
 ## Conference Organization 
 ---
+- Min-symposium in International Congress on Industrial and Applied Mathematics (ICIAM2023), Tokyo, 2023  
 - Min-symposium in 2022 SIAM Conference on Imaging Science (IS22) online, 2022
 - UCD AI & Biomedical Imaging Workshop at UC Davis, online, 2021
 

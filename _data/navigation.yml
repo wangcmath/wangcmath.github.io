@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "CV"
-    url: https://www.dropbox.com/s/zg3txgt22gepvjc/cv_ChaoWang.pdf?dl=0
+    url: https://nbviewer.org/github/wangcmath/wangcmath.github.io/blob/master/files/cv_ChaoWang.pdf
 
   - title: "Publications"
     url: /publications/

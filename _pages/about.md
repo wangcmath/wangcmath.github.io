@@ -19,7 +19,7 @@ Southern University of Science and Technology, Shenzhen 518055, P.R. China
 
 <i class="fas fa-envelope"></i> Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn) & [chaowang.hk@gmail.com](mailto:chaowang.hk@gmail.com)
 
-<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en)
+<i class="ai ai-google-scholar-square"></i> <a href="https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en" style="color:#2eb8b8;text-decoration:none;"> Google Scholar </a>
  
 <i class="fab fa-github"></i> [Github](https://github.com/wangcmath)
 
@@ -33,8 +33,8 @@ His research interests include scientific computing, compressed sensing, interdi
 ---
 - Sep 2023, I started this personal website and stopped updating my Google site.
   
-- Aug 2023, our work on _Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_ was published by IEEE Transactions on Geoscience and Remote Sensing.
-<a href="https://www.google.com/" style="color:#2eb8b8;text-decoration:none;">custom link</a>
+- Aug 2023, our work on <a href="https://ieeexplore.ieee.org/abstract/document/10231145/" style="color:#2eb8b8;text-decoration:none;"> _Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_  </a> was published by IEEE Transactions on Geoscience and Remote Sensing.
+
 
 
 &nbsp;

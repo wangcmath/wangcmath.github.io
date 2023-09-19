@@ -15,7 +15,7 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. “Sorted L1/L2 Minimization for Sparse Signal Recovery” arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
+[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. “<a href="[https://sustech.edu.cn/en/](https://arxiv.org/pdf/2308.04125)" style="color:#2eb8b8;text-decoration:none;"> Sorted L1/L2 Minimization for Sparse Signal Recovery </a>” arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
 
 
 [23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. “Minimizing Quotient Regularization Model” arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)

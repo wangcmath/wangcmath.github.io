@@ -73,7 +73,7 @@ author_profile: true
 
 ## Dissertation 
 
-**C. Wang**. Sparse Recovery Algorithms for 3D Imaging Using Point Spread Function Engineering. Ph.D. Thesis. Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, 2015. [PDF](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2188140?solr_nav%5Bid%5D=596e039fd37cb72d8c95&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0)
+**C. Wang**. <a href="https://repository.lib.cuhk.edu.hk/en/item/cuhk-2188140?solr_nav%5Bid%5D=596e039fd37cb72d8c95&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0" style="color:#2eb8b8;text-decoration:none;"> Sparse Recovery Algorithms for 3D Imaging Using Point Spread Function Engineering. Ph.D. Thesis. Department of Mathematics</a>, The Chinese University of Hong Kong, Hong Kong, 2015. [PDF](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2188140?solr_nav%5Bid%5D=596e039fd37cb72d8c95&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0)
 
 &nbsp;
 

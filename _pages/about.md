@@ -12,7 +12,7 @@ redirect_from:
 
 
 Assistant Professor
-
+\\
 Department of Statistics and Data Science
 
 Southern University of Science and Technology 

@@ -11,6 +11,24 @@ author_profile: true
 
 {% endif %}
 
+- Invited Talk, CSIAM Annual Meeting, Kuiming (Oct. 2023)
+  
+-	International Congress on Industrial and Applied Mathematics (ICIAM2023), Tokyo (Aug. 2023)
+  
+-	Invited Talk, Jiangxi Normal University, Nanchang (May 2023)
+  
+-	Invited Talk, Nanchang Insitute of Technology, Nanchang (May 2023)
+  
+-	Invited Talk, International Conference on Image Processing and Artificial Intelligence, online (Dec. 2022)
+  
+-	Invited Talk, International Conference on Frontier of Statistics & Data Science, SUSTech (Dec. 2022)
+  
+-	Invited Talk, CSIAM Annual Meeting, online (Nov. 2022)
+  
+-	Invited Talk, Nanjing University, online  (Jun. 2022)
+  
+-	AI for Medical Imaging Workshop, Zhejiang Normal University, online (May 2022)
+  
 - SIAM Conference on Image Science (IS22), online (Mar. 2022)
 
 - Invited Talk, Shenzhen Institute of Advanced Technology, Chinese Academy of Science (Sept. 2021)

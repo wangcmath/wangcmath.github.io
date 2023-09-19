@@ -15,15 +15,15 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. “<a href="[https://sustech.edu.cn/en/](https://arxiv.org/pdf/2308.04125)" style="color:#2eb8b8;text-decoration:none;"> Sorted L1/L2 Minimization for Sparse Signal Recovery </a>” arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
+[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. <a href="https://arxiv.org/pdf/2308.04125" style="color:#2eb8b8;text-decoration:none;"> Sorted L1/L2 Minimization for Sparse Signal Recovery </a> arXiv preprint arXiv:2308.04125. See [Link](https://arxiv.org/pdf/2308.04125)
 
 
-[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. “Minimizing Quotient Regularization Model” arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)
+[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04095" style="color:#2eb8b8;text-decoration:none;"> Minimizing Quotient Regularization Model </a> arXiv preprint arXiv:2308.04095; See [Link](https://arxiv.org/pdf/2308.04095)
 
-[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. “Robust retrieval of material chemical states in X-ray microspectroscopy” arXiv preprint arXiv:2308.04207. See [Link](https://arxiv.org/pdf/2308.04207)
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04207" style="color:#2eb8b8;text-decoration:none;"> Robust retrieval of material chemical states in X-ray microspectroscopy </a> arXiv preprint arXiv:2308.04207. See [Link](https://arxiv.org/pdf/2308.04207)
 
 
-[21] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. “Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning? ”arXiv preprint arXiv:2109.12323. See [Link](https://arxiv.org/pdf/2109.12323)
+[21] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. <a href="https://arxiv.org/pdf/2109.12323" style="color:#2eb8b8;text-decoration:none;"> Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning? </a>arXiv preprint arXiv:2109.12323. See [Link](https://arxiv.org/pdf/2109.12323)
 
 
 

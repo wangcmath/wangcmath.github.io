@@ -20,7 +20,7 @@ Shenzhen 518055, P.R. China
 
 <i class="ai ai-google-scholar-square"></i> <a href="https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en" style="color:#2eb8b8;text-decoration:none;"> Google Scholar </a>
  
-<i class="fab fa-github"></i> <a href="https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en" style="color:#2eb8b8;text-decoration:none;"> Github </a> 
+#<i class="fab fa-github"></i> <a href=" " style="color:#2eb8b8;text-decoration:none;"> Github </a> 
 
 **There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
 

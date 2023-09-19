@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Best Paper Award at 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2020
+- Best Paper Award at 2022 Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2022
 
 - SIAM Early Career Travel Grant Award, 2020	 	
 

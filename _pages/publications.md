@@ -29,9 +29,9 @@ author_profile: true
 
 ## Accepted/Published
 
-[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. “Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization”. IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. See [Link](https://ieeexplore.ieee.org/abstract/document/10231145/)
+[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. <a href="https://ieeexplore.ieee.org/abstract/document/10231145/" style="color:#2eb8b8;text-decoration:none;"> Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization</a>. IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. See [Link](https://ieeexplore.ieee.org/abstract/document/10231145/)
 
-[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. “Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing, 1-12. 2022. See [Link](https://link.springer.com/article/10.1007/s00371-022-02674-0)
+[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. <a href="https://link.springer.com/article/10.1007/s00371-022-02674-0" style="color:#2eb8b8;text-decoration:none;"> Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing</a>.  1-12. 2022. See [Link](https://link.springer.com/article/10.1007/s00371-022-02674-0)
 
 [18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. “Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution” The International Conference on Machine Learning (ICML). 2022. See [Link](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)
 

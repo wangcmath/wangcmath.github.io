@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![profile](/images/profile.png){: .align-right width='400px'}
+![profile](/images/profile.png){: .align-right width='350px'}
 
 
 Assistant Professor

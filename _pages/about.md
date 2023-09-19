@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font color= "#2eb8b8"> Chao Wang (王超)</font>"
+title: "Chao Wang (王超)"
 excerpt: "About me"
 author_profile: false
 redirect_from: 

@@ -23,7 +23,7 @@ Southern University of Science and Technology, Shenzhen 518055, P.R. China
  
 <i class="fab fa-github"></i> [Github](https://github.com/wangcmath)
 
-**There are some openings for   graduate students (MSc, Ph.D.), research assistants, and post-docs   in my team. Please contact me if you are interested.**
+**There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
 
 Chao Wang is an assistant professor at the Southern University of Science and Technology ([SUSTech](https://sustech.edu.cn/en/)). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis. He worked with Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/). He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. [Raymond Chan](http://personal.cityu.edu.hk/rhfchan/) and worked closely with Prof. [Robert Plemmons](https://faculty.sites.wfu.edu/plemmons/) at Wake Forest University. Previously, he worked with Prof. [Yifei Lou](https://sites.google.com/site/louyifei/) at the University of Texas (UT) Dallas and Prof. [Xun Jia](https://www.hopkinsmedicine.org/profiles/details/xun-jia) at UT Southwestern Medical Center.
 

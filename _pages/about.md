@@ -34,7 +34,7 @@ His research interests include scientific computing, compressed sensing, interdi
 - Sep 2023, I started this personal website and stopped updating my Google site.
   
 - Aug 2023, our work on _Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_ was published by IEEE Transactions on Geoscience and Remote Sensing.
-<a href="https://www.markdownguide.org" target="_blank">testing!</a>
+<a href="https://www.markdownguide.org" target="_blank"; style="color: black>testing!</a>
 
 &nbsp;
 

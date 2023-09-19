@@ -12,10 +12,9 @@ redirect_from:
 
 
 Assistant Professor
-
 Department of Statistics and Data Science
-
-Southern University of Science and Technology, Shenzhen 518055, P.R. China
+Southern University of Science and Technology 
+Shenzhen 518055, P.R. China
 
 <i class="fas fa-envelope"></i> Email: [wangc6@sustech.edu.cn](mailto:wangc6@sustech.edu.cn) & [chaowang.hk@gmail.com](mailto:chaowang.hk@gmail.com)
 
@@ -25,7 +24,7 @@ Southern University of Science and Technology, Shenzhen 518055, P.R. China
 
 **There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs in my team. Please contact me if you are interested.**
 
-Chao Wang is an assistant professor at the Southern University of Science and Technology ([SUSTech](https://sustech.edu.cn/en/)). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis. He worked with Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/). He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. [Raymond Chan](http://personal.cityu.edu.hk/rhfchan/) and worked closely with Prof. [Robert Plemmons](https://faculty.sites.wfu.edu/plemmons/) at Wake Forest University. Previously, he worked with Prof. [Yifei Lou](https://sites.google.com/site/louyifei/) at the University of Texas (UT) Dallas and Prof. [Xun Jia](https://www.hopkinsmedicine.org/profiles/details/xun-jia) at UT Southwestern Medical Center.
+Chao Wang is an assistant professor at <a href="https://sustech.edu.cn/en/" style="color:#2eb8b8;text-decoration:none;"> Southern University of Science and Technology  </a> (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis. He worked with Prof. <a href="https://sustech.edu.cn/en/](https://www.ece.ucdavis.edu/~chuah/rubinet/)" style="color:#2eb8b8;text-decoration:none;"> Chen-Nee Chuah </a>. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. [Raymond Chan](http://personal.cityu.edu.hk/rhfchan/) and worked closely with Prof. [Robert Plemmons](https://faculty.sites.wfu.edu/plemmons/) at Wake Forest University. Previously, he worked with Prof. [Yifei Lou](https://sites.google.com/site/louyifei/) at the University of Texas (UT) Dallas and Prof. [Xun Jia](https://www.hopkinsmedicine.org/profiles/details/xun-jia) at UT Southwestern Medical Center.
 
 His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.
 

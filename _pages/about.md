@@ -10,14 +10,15 @@ redirect_from:
 
 ![profile](/images/profile.png){: .align-right width='380px'}
 
-
+<div>
 Assistant Professor
-
+<br>
 Department of Statistics and Data Science
-
+<br>
 Southern University of Science and Technology 
-
+<br>
 Shenzhen 518055, P.R. China
+</div>
 
 <i class="fas fa-envelope"></i> Email: <a href="mailto:wangc6@sustech.edu.cn" style="color:#2eb8b8;text-decoration:none;"> wangc6@sustech.edu.cn </a>  & 
 <a href="mailto:chaowang.hk@gmail.com" style="color:#2eb8b8;text-decoration:none;"> chaowang.hk@gmail.com </a>

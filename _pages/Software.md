@@ -10,5 +10,8 @@ author_profile: true
 - MRI/SR [pdf](https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb); [code](https://www.dropbox.com/scl/fo/swjgsxuvz8mwaaj7wc2n4/h?rlkey=26gkosihxhc7uhkce8jc5gi7i&dl=0)
 - Signal processing [pdf](https://ieeexplore.ieee.org/abstract/document/9057443/); [pdf](https://epubs.siam.org/doi/abs/10.1137/18M123147X); [code](https://www.dropbox.com/scl/fo/sg40v384nkexstnux15m7/h?rlkey=l851lk51nbz08gn3lz2yiho6j&dl=0)
 
-
-
+References: 
+- A Scale-Invariant Approach for Sparse Signal Recovery (SIIMS2019)
+- Accelerated Schemes for the L1/L2 Minimization (TSP2020)
+- Limited-Angle CT Reconstruction via the L1/L2 Minimization (SIIMS21)
+- Minimizing L 1 over L 2 norms on the L1/L2 gradient (IP22)

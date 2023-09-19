@@ -28,13 +28,14 @@ Shenzhen 518055, P.R. China
 <i class="ai ai-google-scholar-square"></i> <a href="https://scholar.google.com/citations?user=PBchRWYAAAAJ&hl=en" style="color:#2eb8b8;text-decoration:none;"> Google Scholar </a>
  </div>
 
+**There are some openings for <font color="#2eb8b8"> graduate students (MSc, Ph.D.), research assistants, and post-docs </font> in my team. Please contact me if you are interested.**
 
 Chao Wang is an assistant professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis. He worked with Prof. <a href="https://www.ece.ucdavis.edu/~chuah/rubinet/" style="color:#2eb8b8;text-decoration:none;"> Chen-Nee Chuah</a>. He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. <a href="https://scholars.cityu.edu.hk/en/persons/hon-fu-raymond-chan(98f1cf10-a01a-4642-8470-c48b0e977687).html" style="color:#2eb8b8;text-decoration:none;"> Raymond Chan</a>  and worked closely with Prof. <a href="https://faculty.sites.wfu.edu/plemmons/" style="color:#2eb8b8;text-decoration:none;"> Robert Plemmons </a>  at Wake Forest University. Previously, he worked with Prof. <a href="https://sites.google.com/site/louyifei/" style="color:#2eb8b8;text-decoration:none;"> Yifei Lou </a>  at the University of Texas (UT) Dallas and Prof. <a href="https://www.hopkinsmedicine.org/profiles/details/xun-jia" style="color:#2eb8b8;text-decoration:none;"> Xun Jia </a> at UT Southwestern Medical Center.
 
 
 His research interests include scientific computing, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, medical imaging, machine learning, and numerical linear algebra.
 
-**There are some openings for <font color="#2eb8b8"> graduate students (MSc, Ph.D.), research assistants, and post-docs </font> in my team. Please contact me if you are interested.**
+
 
 # Recent News
 ---

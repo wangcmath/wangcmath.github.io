@@ -29,9 +29,9 @@ author_profile: true
 
 ## Accepted/Published
 
-[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. <a href="https://ieeexplore.ieee.org/abstract/document/10231145/" style="color:#2eb8b8;text-decoration:none;"> Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization</a> IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
+[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. <a href="https://ieeexplore.ieee.org/abstract/document/10231145/" style="color:#2eb8b8;text-decoration:none;"> _Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization_ </a> IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 
-[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. <a href="https://link.springer.com/article/10.1007/s00371-022-02674-0" style="color:#2eb8b8;text-decoration:none;"> Noise Removal Using an Adaptive Euler’s Elastica-based Model” the Visual Computing</a>  1-12. 2022. 
+[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. <a href="https://link.springer.com/article/10.1007/s00371-022-02674-0" style="color:#2eb8b8;text-decoration:none;"> _Noise Removal Using an Adaptive Euler’s Elastica-based Model” the Visual Computing_ </a>  1-12. 2022. 
 
 [18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. <a href="https://proceedings.mlr.press/v162/lai22b/lai22b.pdf" style="color:#2eb8b8;text-decoration:none;"> Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution</a>   The International Conference on Machine Learning (ICML). 2022. 
 
@@ -45,28 +45,28 @@ author_profile: true
 
 [13] Z. Lai<sup>*</sup>, **C. Wang**<sup>#</sup>, L. Oliveira, B. Dugger, SC. Cheung, CN. Chuah, <a href="https://openaccess.thecvf.com/content/ICCV2021W/CDPath/html/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.html" style="color:#2eb8b8;text-decoration:none;"> Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling</a>   Proceedings of the IEEE/CVF International Conference on Computer Vision, 591-600, 2021.
 
-[12] Z. Lai<sup>*</sup>, **C. Wang**, Z. Hu, B. Dugger, SC. Cheung, CN. Chuah, <a href="https://ieeexplore.ieee.org/abstract/document/9629715" style="color:#2eb8b8;text-decoration:none;"> A semi-supervised learning for segmentation of gigapixel histopathology images from brain tissues </a>  International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021. 
+[12] Z. Lai<sup>*</sup>, **C. Wang**, Z. Hu, B. Dugger, SC. Cheung, CN. Chuah, <a href="https://ieeexplore.ieee.org/abstract/document/9629715" style="color:#2eb8b8;text-decoration:none;"> A Semi-supervised Learning for Segmentation of Gigapixel Histopathology Images from Brain Tissues </a>  International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021. 
 
-[11]**C. Wang**<sup>*</sup>, M. Tao, J. Nagy, and Y. Lou. <a href="https://epubs.siam.org/doi/10.1137/20M1341490" style="color:#2eb8b8;text-decoration:none;"> Limited-angle CT reconstruction via the L1/L2 minimization </a>  SIAM Journal on Imaging Sciences. 14(2), 749–777，2021. 
+[11]**C. Wang**<sup>*</sup>, M. Tao, J. Nagy, and Y. Lou. <a href="https://epubs.siam.org/doi/10.1137/20M1341490" style="color:#2eb8b8;text-decoration:none;"> Limited-angle CT Reconstruction via The L1/L2 minimization </a>  SIAM Journal on Imaging Sciences. 14(2), 749–777，2021. 
 
-[10] **C. Wang**<sup>*</sup>, R.H. Chan, R.J. Plemmons, and S. Prasad, <a href="https://link.springer.com/book/10.1007/978-981-16-2701-9" style="color:#2eb8b8;text-decoration:none;"> Point spread function engineering for 3D imaging using a continuous exact L0 penalty (CEL0) based algorithm </a>  Mathematical Methods in Image Processing and Inverse Problems, Springer, 2021. [[ArXiv](https://arxiv.org/pdf/2006.02858.pdf)] [[Book](https://link.springer.com/book/10.1007/978-981-16-2701-9)]
+[10] **C. Wang**<sup>*</sup>, R.H. Chan, R.J. Plemmons, and S. Prasad, <a href="https://link.springer.com/book/10.1007/978-981-16-2701-9" style="color:#2eb8b8;text-decoration:none;"> Point Spread Function Engineering for 3D Imaging using a Continuous Exact L0 Penalty (CEL0) based Algorithm </a>  Mathematical Methods in Image Processing and Inverse Problems, Springer, 2021. [[ArXiv](https://arxiv.org/pdf/2006.02858.pdf)] [[Book](https://link.springer.com/book/10.1007/978-981-16-2701-9)]
 
 [9] **C. Wang**, M. Yan, and Y. Lou<sup>*</sup>. <a href="https://ieeexplore.ieee.org/document/9057443" style="color:#2eb8b8;text-decoration:none;"> Accelerated schemes for the L1/L2 minimization </a>  IEEE Transaction on Signal Processing,68, 2660 – 2669,2020.
 [8] **C. Wang**, Y. Gonzalez, C. Shen, B. Hrycushko, and X. Jia<sup>*</sup>. <a href="https://iopscience.iop.org/article/10.1088/1361-6560/abd00e/meta" style="color:#2eb8b8;text-decoration:none;"> Simultaneous Needle Catheter Selection and Dwell Time Optimization for Preplanning of HDR Brachytherapy of Prostate Cancer </a>   Physics in Medicine & Biology (66),055028, 2021.
 
-[7] **C. Wang**, Y. Gonzalez, C. Shen, and X. Jia<sup>*</sup> Simultaneous needle selection and dwell time optimization in prostate cancer high-dose-rate brachytherapy,  Medical Physics 47 (6), E367-E367, 2020.
+[7] **C. Wang**, Y. Gonzalez, C. Shen, and X. Jia<sup>*</sup> Simultaneous Needle Selection and Dwell Time Optimization in Prostate Cancer High-dose-rate Brachytherapy,  Medical Physics 47 (6), E367-E367, 2020.
 
-[6] Y. Huang, Y. Zhong, **C. Wang**, Y. Gonzalez, C. Shen, and X. Jia<sup>*</sup>. Comprehensive calibration and evaluation of a cone-beam CT on a pre-clinical small animal radiation research platform”, Medical Physics 47 (6), E731-E731, 2020.
+[6] Y. Huang, Y. Zhong, **C. Wang**, Y. Gonzalez, C. Shen, and X. Jia<sup>*</sup>. Comprehensive Calibration and Evaluation of a Cone-beam CT on a Pre-clinical Small Animal Radiation Research Platform”, Medical Physics 47 (6), E731-E731, 2020.
 
 [5] Y. Rahimi, **C. Wang**<sup>*</sup>, H. Dong, and Y. Lou. <a href="https://epubs.siam.org/doi/abs/10.1137/18M123147X" style="color:#2eb8b8;text-decoration:none;"> A scale invariant approach for sparse signal recovery </a>   SIAM Journal on Scientific Computing, 41(6), A3649–A3672, 2019. 
 
-[4] **C. Wang**<sup>*</sup>, G. Ballad, R.J. Plemmons, and S. Prasad <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-58-31-8598" style="color:#2eb8b8;text-decoration:none;"> Joint 3D localization and classification of space debris using a multispectral rotating point spread function </a>   Applied Optics, 58, 8598-8611, 2019. 
+[4] **C. Wang**<sup>*</sup>, G. Ballad, R.J. Plemmons, and S. Prasad <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-58-31-8598" style="color:#2eb8b8;text-decoration:none;"> Joint 3D Localization and Classification of Space Debris using a Multispectral Rotating Point Spread Function </a>   Applied Optics, 58, 8598-8611, 2019. 
 
-[3] **C. Wang**<sup>*</sup>, R.H. Chan, M. Nikolova, R.J. Plemmons, and S. Prasad. <a href="https://epubs.siam.org/doi/abs/10.1137/18M1178566" style="color:#2eb8b8;text-decoration:none;"> Non-convex optimization for 3-dimensional point source localization using a rotating point spread function </a>  SIAM Journal on Imaging Sciences, 12(1):259–286, 2019. 
+[3] **C. Wang**<sup>*</sup>, R.H. Chan, M. Nikolova, R.J. Plemmons, and S. Prasad. <a href="https://epubs.siam.org/doi/abs/10.1137/18M1178566" style="color:#2eb8b8;text-decoration:none;"> Non-convex Optimization for 3-dimensional Point Source Localization using a Rotating Point Spread Function </a>  SIAM Journal on Imaging Sciences, 12(1):259–286, 2019. 
 
-[2] **C. Wang**<sup>*</sup>, R.J. Plemmons, S. Prasad, R.H. Chan, and M. Nikolova. <a href="https://amostech.com/TechnicalPapers/2018/Poster/Wang.pdf" style="color:#2eb8b8;text-decoration:none;"> Novel sparse recovery algorithms for 3D debris localization using rotating point spread function imagery </a> In Proc. 2018 AMOS Technical Conference, Maui, HI. 2018. 
+[2] **C. Wang**<sup>*</sup>, R.J. Plemmons, S. Prasad, R.H. Chan, and M. Nikolova. <a href="https://amostech.com/TechnicalPapers/2018/Poster/Wang.pdf" style="color:#2eb8b8;text-decoration:none;"> Novel Sparse Recovery Algorithms for 3D Debris Localization using Rotating Point Spread Function imagery </a> In Proc. 2018 AMOS Technical Conference, Maui, HI. 2018. 
 
-[1] X. Fang, F. Lin, and **C. Wang**<sup>*</sup>. <a href="https://www.cambridge.org/core/journals/east-asian-journal-on-applied-mathematics/article/abs/estimation-of-a-regularisation-parameter-for-a-robin-inverse-problem/A2B2B3CBFAE2A27AEC8D49AE4BA4F4BD" style="color:#2eb8b8;text-decoration:none;"> Estimation of a regularization parameter for a robin inverse problem </a>  East Asian Journal on Applied Mathematics, 7(2) 325-342, 2017. 
+[1] X. Fang, F. Lin, and **C. Wang**<sup>*</sup>. <a href="https://www.cambridge.org/core/journals/east-asian-journal-on-applied-mathematics/article/abs/estimation-of-a-regularisation-parameter-for-a-robin-inverse-problem/A2B2B3CBFAE2A27AEC8D49AE4BA4F4BD" style="color:#2eb8b8;text-decoration:none;"> Estimation of a Regularization Parameter for a Robin Inverse Problem </a>  East Asian Journal on Applied Mathematics, 7(2) 325-342, 2017. 
 
 
 

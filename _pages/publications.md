@@ -52,6 +52,7 @@ author_profile: true
 [10] **C. Wang**<sup>*</sup>, R.H. Chan, R.J. Plemmons, and S. Prasad, <a href="https://link.springer.com/book/10.1007/978-981-16-2701-9" style="color:#2eb8b8;text-decoration:none;"> _Point Spread Function Engineering for 3D Imaging using a Continuous Exact L0 Penalty (CEL0) based Algorithm_ </a>  Mathematical Methods in Image Processing and Inverse Problems, Springer, 2021. [[ArXiv](https://arxiv.org/pdf/2006.02858.pdf)] [[Book](https://link.springer.com/book/10.1007/978-981-16-2701-9)]
 
 [9] **C. Wang**, M. Yan, and Y. Lou<sup>*</sup>. <a href="https://ieeexplore.ieee.org/document/9057443" style="color:#2eb8b8;text-decoration:none;"> _Accelerated schemes for the L1/L2 minimization_ </a>  IEEE Transaction on Signal Processing,68, 2660 – 2669,2020.
+
 [8] **C. Wang**, Y. Gonzalez, C. Shen, B. Hrycushko, and X. Jia<sup>*</sup>. <a href="https://iopscience.iop.org/article/10.1088/1361-6560/abd00e/meta" style="color:#2eb8b8;text-decoration:none;"> _Simultaneous Needle Catheter Selection and Dwell Time Optimization for Preplanning of HDR Brachytherapy of Prostate Cancer_ </a>   Physics in Medicine & Biology (66),055028, 2021.
 
 [7] **C. Wang**, Y. Gonzalez, C. Shen, and X. Jia<sup>*</sup> _Simultaneous Needle Selection and Dwell Time Optimization in Prostate Cancer High-dose-rate Brachytherapy_  Medical Physics 47 (6), E367-E367, 2020.

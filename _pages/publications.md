@@ -15,15 +15,15 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. <a href="https://arxiv.org/pdf/2308.04125" style="color:#2eb8b8;text-decoration:none;"> Sorted L1/L2 Minimization for Sparse Signal Recovery </a> arXiv preprint arXiv:2308.04125.
+[24] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. <a href="https://arxiv.org/pdf/2308.04125" style="color:#2eb8b8;text-decoration:none;"> _Sorted L1/L2 Minimization for Sparse Signal Recovery_ </a> arXiv preprint arXiv:2308.04125.
 
 
-[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04095" style="color:#2eb8b8;text-decoration:none;"> Minimizing Quotient Regularization Model </a> arXiv preprint arXiv:2308.04095.
+[23]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04095" style="color:#2eb8b8;text-decoration:none;"> _Minimizing Quotient Regularization Model_ </a> arXiv preprint arXiv:2308.04095.
 
-[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04207" style="color:#2eb8b8;text-decoration:none;"> Robust retrieval of material chemical states in X-ray microspectroscopy </a> arXiv preprint arXiv:2308.04207.
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. <a href="https://arxiv.org/pdf/2308.04207" style="color:#2eb8b8;text-decoration:none;"> _Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_ </a> arXiv preprint arXiv:2308.04207.
 
 
-[21] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. <a href="https://arxiv.org/pdf/2109.12323" style="color:#2eb8b8;text-decoration:none;"> Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning? </a>arXiv preprint arXiv:2109.12323.
+[21] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. <a href="https://arxiv.org/pdf/2109.12323" style="color:#2eb8b8;text-decoration:none;"> _Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_ </a>arXiv preprint arXiv:2109.12323.
 
 
 
@@ -31,7 +31,7 @@ author_profile: true
 
 [20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. <a href="https://ieeexplore.ieee.org/abstract/document/10231145/" style="color:#2eb8b8;text-decoration:none;"> Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization</a> IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 
-[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. <a href="https://link.springer.com/article/10.1007/s00371-022-02674-0" style="color:#2eb8b8;text-decoration:none;"> Noise removal using an adaptive Euler’s elastica-based model” the Visual Computing</a>  1-12. 2022. 
+[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. <a href="https://link.springer.com/article/10.1007/s00371-022-02674-0" style="color:#2eb8b8;text-decoration:none;"> Noise Removal Using an Adaptive Euler’s Elastica-based Model” the Visual Computing</a>  1-12. 2022. 
 
 [18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. <a href="https://proceedings.mlr.press/v162/lai22b/lai22b.pdf" style="color:#2eb8b8;text-decoration:none;"> Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution</a>   The International Conference on Machine Learning (ICML). 2022. 
 
@@ -39,7 +39,7 @@ author_profile: true
 
 [16] Z. Lai, **C. Wang**<sup>#</sup>, SC. Cheung, CN. Chuah. <a href="[https://iopscience.iop.org/article/10.1088/2057-1976/ac6d82](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf)" style="color:#2eb8b8;text-decoration:none;"> SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning</a>  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2022.
 
-[15] **C. Wang**, M. Tao, CN. Chuah, J. Nagy, and Y. Lou<sup>*</sup>. <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb" style="color:#2eb8b8;text-decoration:none;"> Minimizing L1 over L2 norms on the gradient</a>  Inverse Problems. 39 065011, 2022. 
+[15] **C. Wang**, M. Tao, CN. Chuah, J. Nagy, and Y. Lou<sup>*</sup>. <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb" style="color:#2eb8b8;text-decoration:none;"> Minimizing L1 over L2 Norms on the Gradient</a>  Inverse Problems. 39 065011, 2022. 
 
 [14] **C. Wang**, H. Jung, M. Yang, C. Shen, X. Jia<sup>*</sup>, <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.827136/full" style="color:#2eb8b8;text-decoration:none;"> Simultaneous Image Reconstruction and Element Decomposition for Iodine Contrast Agent Visualization in Multi-energy Element-resolved Cone Beam CT</a>   Frontiers in Oncology, 2022. 
 

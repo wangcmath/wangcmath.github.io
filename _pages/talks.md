@@ -63,13 +63,13 @@ author_profile: true
 
 - <a href="https://www.csrc.ac.cn/en/event/workshop/2017-12-27/78.html" style="color:#2eb8b8;text-decoration:none;"> International Workshop on Image Processing and Inverse Problems, CSRC</a>, Beijing, China (Apr. 2018)
 
-- [4th AoE Symposium on Organelle Biogenesis and Function](https://www.cuhk.edu.hk/centre/ccdb/aoesymposium4/), CUHK, Hong Kong (Dec. 2017)
+- <a href="https://www.cuhk.edu.hk/centre/ccdb/aoesymposium4/" style="color:#2eb8b8;text-decoration:none;"> 4th AoE Symposium on Organelle Biogenesis and Function, CSRC</a>, CUHK, Hong Kong (Dec. 2017)
 
-- [International Conf. & AoE Symposium on Organelle Biogenesis and Function](https://www.cuhk.edu.hk/centre/iCell/newsevents.html), CUHK, Hong Kong (Sep. 2017)
+- <a href="https://www.cuhk.edu.hk/centre/iCell/newsevents.html" style="color:#2eb8b8;text-decoration:none;"> International Conf. & AoE Symposium on Organelle Biogenesis and Function</a>, CUHK, Hong Kong (Sep. 2017)
 
-- [15th Annual Meeting of China Society for Industrial and Applied Mathematics](https://csiam.org.cn/english/article/detail/id/880.html), Qingdao, China (Oct. 2017)
+- Invited Talk, <a href="https://csiam.org.cn/english/article/detail/id/880.html" style="color:#2eb8b8;text-decoration:none;"> CSIAM Annual Meeting</a>, Qingdao, China (Oct. 2017)
 
-- 2017 Imaging Science Camp at SUST, Shenzhen, China (Mar. 2017)
+- 2017 Imaging Science Camp at SUSTech, Shenzhen, China (Mar. 2017)
 
 - East Asian Section of SIAM Conference (EASIAM), Macau (Jun. 2016)
 

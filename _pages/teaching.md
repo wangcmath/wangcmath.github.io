@@ -11,7 +11,7 @@ author_profile: true
 - STA5013 Statistical & Mathematical Image Processing, Fall 2023
 
 
-### As a teaching assistant at <a href="https://www.cuhk.edu.hk/" style="color:#2eb8b8;text-decoration:none;"> the Chinese University of Hong Kong  </a>  
+### As a teaching assistant at <a href="https://www.cuhk.edu.hk/" style="color:#2eb8b8;text-decoration:none;"> The Chinese University of Hong Kong  </a>  
 
 - MATH4230 Optimization Theory, Spring 2018
 - MATH3215A Operations Research, Fall 2017

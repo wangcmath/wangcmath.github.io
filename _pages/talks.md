@@ -11,9 +11,9 @@ author_profile: true
 
 {% endif %}
 
-- Invited Talk, CSIAM Annual Meeting, Kuiming (Oct. 2023)
+- Invited Talk, <a href="https://meeting.csiam.org.cn/#/2023/" style="color:#2eb8b8;text-decoration:none;"> CSIAM Annual Meeting</a>, Kuiming (Oct. 2023)
   
--	International Congress on Industrial and Applied Mathematics (ICIAM2023), Tokyo (Aug. 2023)
+-	<a href="https://iciam2023.org/registered_data?id=00963#02395" style="color:#2eb8b8;text-decoration:none;"> International Congress on Industrial and Applied Mathematics </a>  (ICIAM2023), Tokyo (Aug. 2023)
   
 -	Invited Talk, Jiangxi Normal University, Nanchang (May 2023)
   
@@ -21,7 +21,7 @@ author_profile: true
   
 -	Invited Talk, International Conference on Image Processing and Artificial Intelligence, online (Dec. 2022)
   
--	Invited Talk, International Conference on Frontier of Statistics & Data Science, SUSTech (Dec. 2022)
+-	Invited Talk, <a href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/10" style="color:#2eb8b8;text-decoration:none;"> International Conference on Frontier of Statistics & Data Science </a>, SUSTech (Dec. 2022)
   
 -	Invited Talk, CSIAM Annual Meeting, online (Nov. 2022)
   

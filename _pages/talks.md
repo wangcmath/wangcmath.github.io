@@ -23,19 +23,19 @@ author_profile: true
   
 -	Invited Talk, <a href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/10" style="color:#2eb8b8;text-decoration:none;"> International Conference on Frontier of Statistics & Data Science </a>, SUSTech (Dec. 2022)
   
--	Invited Talk, CSIAM Annual Meeting, online (Nov. 2022)
+-	Invited Talk, <a href="https://meeting.csiam.org.cn/#/2022/" style="color:#2eb8b8;text-decoration:none;"> CSIAM Annual Meeting</a>, online (Nov. 2022)
   
--	Invited Talk, Nanjing University, online  (Jun. 2022)
+-	Invited Talk, <a href="https://math.nju.edu.cn/en/Events/Seminars/20220621/i223964.html" style="color:#2eb8b8;text-decoration:none;"> Nanjing University</a>, online  (Jun. 2022)
   
 -	AI for Medical Imaging Workshop, Zhejiang Normal University, online (May 2022)
   
-- SIAM Conference on Image Science (IS22), online (Mar. 2022)
+- <a href="https://www.siam.org/conferences/cm/conference/is22" style="color:#2eb8b8;text-decoration:none;"> SIAM Conference on Image Science </a>(IS22), online (Mar. 2022)
 
 - Invited Talk, Shenzhen Institute of Advanced Technology, Chinese Academy of Science (Sept. 2021)
 
-- Invited Talk, Frontiers in Biomedical Imaging Seminar Series, [UCD BME](https://bme.ucdavis.edu/), online (Nov. 2020)
+- Invited Talk, Frontiers in Biomedical Imaging Seminar Series, <a href="https://bme.ucdavis.edu/" style="color:#2eb8b8;text-decoration:none;"> UCD BME </a>, online (Nov. 2020)
 
-- Invited Talk, Machine Learning Working Group, [UCD Health](https://health.ucdavis.edu/welcome/), online (Oct. 2020)
+- Invited Talk, Machine Learning Working Group, <a href="https://health.ucdavis.edu/welcome/" style="color:#2eb8b8;text-decoration:none;"> UCD Health</a>, online (Oct. 2020)
 
 - Invited Talk, [Mathematics of Data and Decisions at Davis](https://sites.google.com/view/maddd), [UCD Math](https://www.math.ucdavis.edu/). online (Oct. 2020)
 

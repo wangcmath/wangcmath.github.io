@@ -33,7 +33,7 @@ author_profile: true
 
 [19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. [_Noise Removal Using an Adaptive Euler’s Elastica-based Model_](https://link.springer.com/article/10.1007/s00371-022-02674-0) the Visual Computing 1-12. 2022. 
 
-[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. <a href="https://proceedings.mlr.press/v162/lai22b/lai22b.pdf" style="color:#2eb8b8;text-decoration:none;"> _Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution_ </a>   The International Conference on Machine Learning (ICML). 2022. 
+[18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. [_Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution_](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf) The International Conference on Machine Learning (ICML). 2022. 
 
 [17] D. Sprouts, Y. Gao, **C. Wang**, X. Jia, C. Shen, Y. Chi [_The Development of a Deep Reinforcement Learning Network for Dose-Volume-Constrained Treatment Planning in Prostate Cancer Intensity Modulated Radiotherapy_](https://iopscience.iop.org/article/10.1088/2057-1976/ac6d82) Biomedical Physics & Engineering Express. 2022. 
 

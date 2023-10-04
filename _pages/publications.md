@@ -29,11 +29,11 @@ author_profile: true
 
 ## Accepted/Published
 
-[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. _LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_ Optics Express (to appear)
+[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan*<sup>*</sup>. _LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_ Optics Express (to appear)
 
 [20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. [_Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 
-[19] J. Zhang, J. Yang, M. Ma, **C. Wang**<sup>*</sup>. [_Noise Removal Using an Adaptive Euler’s Elastica-based Model_](https://link.springer.com/article/10.1007/s00371-022-02674-0) the Visual Computing 1-12. 2022. 
+[19] 	J. Yang, M. Ma, J. Zhang, **C. Wang**<sup>*</sup>. [_Noise Removal Using an Adaptive Euler’s Elastica-based Model_](https://link.springer.com/article/10.1007/s00371-022-02674-0) the Visual Computing 1-12. 2022. 
 
 [18] Z. Lai, **C. Wang**<sup>#</sup>, H. Gunawan, SC. Cheung, CN. Chuah. [_Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution_](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf) The International Conference on Machine Learning (ICML). 2022. 
 

@@ -29,7 +29,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. “LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging”. Optics Express (to appear)
+[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. _LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_ Optics Express (to appear)
 
 [20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. [_Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 

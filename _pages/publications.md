@@ -15,6 +15,9 @@ author_profile: true
 
 ## Preprints/Submitted
 
+[26]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral image fusion via logarithmic low-rank tensor ring decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
+
+
 [25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.
 
 
@@ -29,7 +32,8 @@ author_profile: true
 
 ## Accepted/Published
 
-[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan*<sup>*</sup>. _LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_ Optics Express (to appear)
+[21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. [_LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39341&id=541432) Optics Express. 31(24), 39341-39355, 2023.
+
 
 [20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. [_Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 

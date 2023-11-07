@@ -15,7 +15,7 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[26]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral image fusion via logarithmic low-rank tensor ring decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
+[26]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
 
 
 [25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.

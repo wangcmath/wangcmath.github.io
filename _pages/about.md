@@ -39,11 +39,14 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
-- Oct 2023, our work on _LocNet: Deep learning-based localization on rotating point spread function with applications to telescope imaging_ was accepted by Optics Express.
 
-- Sep 2023, I started this personal website and stopped updating my Google site.
+- Nov. 2023, our work on _Robust retrieval of material chemical states in X-ray microspectroscopy_ was accepted by Optics Express.
+
+- Oct. 2023, our work on _LocNet: Deep learning-based localization on rotating point spread function with applications to telescope imaging_ was accepted by Optics Express.
+
+- Sep. 2023, I started this personal website and stopped updating my Google site.
   
-- Aug 2023, our work on [_Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) was published by IEEE Transactions on Geoscience and Remote Sensing.
+- Aug. 2023, our work on [_Hyperspectral and multispectral image fusion via superpixel-based weighted nuclear norm minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) was published by IEEE Transactions on Geoscience and Remote Sensing.
 
 
 

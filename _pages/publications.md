@@ -23,14 +23,14 @@ author_profile: true
 
 [24]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
-[23]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://arxiv.org/pdf/2308.04207) arXiv preprint arXiv:2308.04207.
 
-
-[22] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[23] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://arxiv.org/pdf/2308.04207)  (to appear) Optics Express
 
 [21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. [_LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39341&id=541432) Optics Express. 31(24), 39341-39355, 2023.
 

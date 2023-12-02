@@ -30,7 +30,8 @@ author_profile: true
 
 ## Accepted/Published
 
-[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://arxiv.org/pdf/2308.04207)  (to appear) Optics Express
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053)  (to appear) Optics Express,31(25), 42524-42538,2023.
+
 
 [21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. [_LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39341&id=541432) Optics Express. 31(24), 39341-39355, 2023.
 

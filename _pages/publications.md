@@ -15,16 +15,16 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[26]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
+[27]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
 
 
-[25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.
+[26] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.
 
 
-[24]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
+[25]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
 
-[23] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[24] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 

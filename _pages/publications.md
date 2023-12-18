@@ -30,7 +30,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling, IEEE Transactions on Geoscience and Remote Sensing (to appear).
+[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. _Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_  IEEE Transactions on Geoscience and Remote Sensing (to appear).
 
 
 [22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053) Optics Express,31(25), 42524-42538,2023.
@@ -39,7 +39,7 @@ author_profile: true
 [21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. [_LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39341&id=541432) Optics Express. 31(24), 39341-39355, 2023.
 
 
-[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. [_Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
+[20]	J. Zhang, J. Lu, **C. Wang**, S. Li*. [_Hyperspectral and Multispectral Image Fusion via Superpixel-based Weighted Nuclear Norm Minimization_](https://ieeexplore.ieee.org/abstract/document/10231145/) IEEE Transactions on Geoscience and Remote Sensing. 5521612. 2023. 
 
 [19] 	J. Yang, M. Ma, J. Zhang, **C. Wang**<sup>*</sup>. [_Noise Removal Using an Adaptive Euler’s Elastica-based Model_](https://link.springer.com/article/10.1007/s00371-022-02674-0) the Visual Computing 1-12. 2022. 
 
@@ -61,7 +61,7 @@ author_profile: true
 
 [10] **C. Wang**<sup>*</sup>, R.H. Chan, R.J. Plemmons, and S. Prasad, [_Point Spread Function Engineering for 3D Imaging using a Continuous Exact L0 Penalty (CEL0) based Algorithm_](https://link.springer.com/book/10.1007/978-981-16-2701-9) Mathematical Methods in Image Processing and Inverse Problems, Springer, 2021. \[[ArXiv](https://arxiv.org/pdf/2006.02858.pdf)\] \[[Book](https://link.springer.com/book/10.1007/978-981-16-2701-9)\]
 
-[9] **C. Wang**, M. Yan, and Y. Lou<sup>*</sup>. [_Accelerated schemes for the L1/L2 minimization_](https://ieeexplore.ieee.org/document/9057443) IEEE Transaction on Signal Processing,68, 2660 – 2669,2020.
+[9] **C. Wang**, M. Yan, and Y. Lou<sup>*</sup>. [_Accelerated Schemes for the L1/L2 Minimization_](https://ieeexplore.ieee.org/document/9057443) IEEE Transaction on Signal Processing,68, 2660 – 2669,2020.
 
 [8] **C. Wang**, Y. Gonzalez, C. Shen, B. Hrycushko, and X. Jia<sup>*</sup>. [_Simultaneous Needle Catheter Selection and Dwell Time Optimization for Preplanning of HDR Brachytherapy of Prostate Cancer_](https://iopscience.iop.org/article/10.1088/1361-6560/abd00e/meta) Physics in Medicine & Biology (66),055028, 2021.
 

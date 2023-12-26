@@ -40,7 +40,7 @@ His research interests include scientific computing, compressed sensing, interdi
 # Recent News
 ---
 
-- Dec. 2023, our work on _Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_ was accepted by IEEE Transactions on Geoscience and Remote Sensing.
+- Dec. 2023, our work on [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135) was accepted by IEEE Transactions on Geoscience and Remote Sensing.
 
 - Nov. 2023, our work on _Robust retrieval of material chemical states in X-ray microspectroscopy_ was accepted by Optics Express.
 

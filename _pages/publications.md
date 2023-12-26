@@ -30,7 +30,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. _Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_  IEEE Transactions on Geoscience and Remote Sensing (to appear).
+[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing (to appear).
 
 
 [22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053) Optics Express,31(25), 42524-42538,2023.

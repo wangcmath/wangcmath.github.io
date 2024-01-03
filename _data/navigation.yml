@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /about/
+    url: /
 
   - title: "CV"
     url: https://nbviewer.org/github/wangcmath/wangcmath.github.io/blob/master/files/cv_ChaoWang.pdf

@@ -15,20 +15,22 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[27]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
+[28]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
 
 
-[26] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.
+[27] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) arXiv preprint arXiv:2308.04125.
 
 
-[25]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
+[26]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
 
-[24] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[25] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[24] H. Zheng, Y. Lou, G. Tian, **C. Wang**<sup>*</sup>. “A Scale-invariant Relaxation in Low-rank Tensor Recovery with an Application to Tensor Completion”. SIAM Journal on Imaging Sciences (to appear). 
 
 [23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing (to appear).
 

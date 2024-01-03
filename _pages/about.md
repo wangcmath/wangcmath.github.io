@@ -1,4 +1,4 @@
----
+![image](https://github.com/wangcmath/wangcmath.github.io/assets/31501949/875c6182-0613-4e78-97bc-e9d33be6dfda)---
 permalink: /
 title: "Chao Wang (王超)"
 excerpt: "About me"
@@ -39,6 +39,8 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
+
+- Jan. 2024, our work on A scale-invariant relaxation in low-rank tensor recovery with an application to tensor completion was accepted by SIAM Journal on Imaging Sciences. 
 
 - Dec. 2023, our work on [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135) was accepted by IEEE Transactions on Geoscience and Remote Sensing.
 

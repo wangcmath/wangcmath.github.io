@@ -3,9 +3,6 @@ permalink: /
 title: "Chao Wang (王超)"
 excerpt: "About me"
 author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ![profile](/images/profile.png){: .align-right width='380px'}

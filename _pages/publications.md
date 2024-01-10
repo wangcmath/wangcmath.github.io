@@ -35,7 +35,7 @@ author_profile: true
 [23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing (to appear).
 
 
-[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053) Optics Express,31(25), 42524-42538,2023.
+[22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053) Optics Express,31(25), 42524-42538,2023. [code](https://github.com/wangting1907/Robust-retrieval-of-material-chemical-states-in-X-ray-microspectroscopy.git)
 
 
 [21]	L. Dai, M. Lu, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan<sup>*</sup>. [_LocNet: Deep Learning-based Localization on Rotating Point Spread Function with Applications to Telescope Imaging_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39341&id=541432) Optics Express. 31(24), 39341-39355, 2023.
@@ -51,7 +51,7 @@ author_profile: true
 
 [16] Z. Lai, **C. Wang**<sup>#</sup>, SC. Cheung, CN. Chuah. [_SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning_](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf) The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) workshop, 2022.
 
-[15] **C. Wang**, M. Tao, CN. Chuah, J. Nagy, and Y. Lou<sup>*</sup>. [_Minimizing L1 over L2 Norms on the Gradient_](https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb) Inverse Problems. 39 065011, 2022. 
+[15] **C. Wang**, M. Tao, CN. Chuah, J. Nagy, and Y. Lou<sup>*</sup>. [_Minimizing L1 over L2 Norms on the Gradient_](https://iopscience.iop.org/article/10.1088/1361-6420/ac64fb) Inverse Problems. 39 065011, 2022. [code](https://github.com/wangcmath/L1overL2.git)
 
 [14] **C. Wang**, H. Jung, M. Yang, C. Shen, X. Jia<sup>*</sup>, [_Simultaneous Image Reconstruction and Element Decomposition for Iodine Contrast Agent Visualization in Multi-energy Element-resolved Cone Beam CT_](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.827136/full) Frontiers in Oncology, 2022. 
 
@@ -59,7 +59,7 @@ author_profile: true
 
 [12] Z. Lai<sup>*</sup>, **C. Wang**, Z. Hu, B. Dugger, SC. Cheung, CN. Chuah, [_A Semi-supervised Learning for Segmentation of Gigapixel Histopathology Images from Brain Tissues_](https://ieeexplore.ieee.org/abstract/document/9629715) International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021. 
 
-[11]**C. Wang**<sup>*</sup>, M. Tao, J. Nagy, and Y. Lou. [_Limited-angle CT Reconstruction via The L1/L2 minimization_](https://epubs.siam.org/doi/10.1137/20M1341490) SIAM Journal on Imaging Sciences. 14(2), 749–777，2021. 
+[11]**C. Wang**<sup>*</sup>, M. Tao, J. Nagy, and Y. Lou. [_Limited-angle CT Reconstruction via The L1/L2 minimization_](https://epubs.siam.org/doi/10.1137/20M1341490) SIAM Journal on Imaging Sciences. 14(2), 749–777，2021.  [code](https://github.com/wangcmath/limited_angle_CT_L1dL2.git)
 
 [10] **C. Wang**<sup>*</sup>, R.H. Chan, R.J. Plemmons, and S. Prasad, [_Point Spread Function Engineering for 3D Imaging using a Continuous Exact L0 Penalty (CEL0) based Algorithm_](https://link.springer.com/book/10.1007/978-981-16-2701-9) Mathematical Methods in Image Processing and Inverse Problems, Springer, 2021. \[[ArXiv](https://arxiv.org/pdf/2006.02858.pdf)\] \[[Book](https://link.springer.com/book/10.1007/978-981-16-2701-9)\]
 

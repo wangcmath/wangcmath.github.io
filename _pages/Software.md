@@ -5,9 +5,9 @@ permalink: /software/
 author_profile: true
 ---
 ## The _L<sub>1</sub>/L<sub>2</sub>_ minimization
-- CT: \[[code](https://www.dropbox.com/scl/fo/vsutzr9jj4gfyxfmmdrzv/h?rlkey=hru9719g4d41y0r2g8dtueepw&dl=0)\]
-- MRI/SR: \[[code](https://www.dropbox.com/scl/fo/swjgsxuvz8mwaaj7wc2n4/h?rlkey=26gkosihxhc7uhkce8jc5gi7i&dl=0)\]
-- Signal processing: \[[code](https://www.dropbox.com/scl/fo/sg40v384nkexstnux15m7/h?rlkey=l851lk51nbz08gn3lz2yiho6j&dl=0)\]
+- CT: \[[code](https://github.com/wangcmath/limited_angle_CT_L1dL2.git)\]
+- MRI/SR: \[[code](https://github.com/wangcmath/L1overL2.git)\]
+- Signal processing: \[[code](https://github.com/wangcmath/L1overL2.git)\]
 
 References: 
 - A Scale-Invariant Approach for Sparse Signal Recovery (SIIMS2019) \[[pdf](https://epubs.siam.org/doi/abs/10.1137/18M123147X)\]

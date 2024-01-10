@@ -32,7 +32,7 @@ author_profile: true
 
 [24] H. Zheng, Y. Lou, G. Tian, **C. Wang**<sup>*</sup>. “A Scale-Invariant Relaxation in Low-rank Tensor Recovery with an Application to Tensor Completion”. SIAM Journal on Imaging Sciences (to appear). 
 
-[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing (to appear).
+[23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing 62, 1-13, 2024.
 
 
 [22]	T. Wang, X. Wu, J. Li, **C. Wang**<sup>*</sup>. [_Robust Retrieval of Material Chemical States in X-ray Microspectroscopy_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-25-42524&id=544053) Optics Express,31(25), 42524-42538,2023. [code](https://github.com/wangting1907/Robust-retrieval-of-material-chemical-states-in-X-ray-microspectroscopy.git)

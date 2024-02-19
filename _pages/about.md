@@ -36,6 +36,7 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
+- Feb. 2024, our work on Sorted L1/L2 Minimization for Sparse Signal Recovery  was accepted by Journal of Scientific Computing. 
 
 - Jan. 2024, our work on A scale-invariant relaxation in low-rank tensor recovery with an application to tensor completion was accepted by SIAM Journal on Imaging Sciences. 
 

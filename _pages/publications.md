@@ -15,17 +15,19 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[28]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
+[29]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
 
 
-[27]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
+[28]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
 
-[26] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[27] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[26] J. Lu, J. Zhang, **C. Wang**, C. Deng. Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm. Signal Processing (to appear). 
 
 [25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) Journal of Scientific Computing (to appear).
 

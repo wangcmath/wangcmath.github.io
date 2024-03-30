@@ -15,7 +15,6 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[29]	J. Zhang, L. Zhu, **C. Wang**, S. Li*. [_Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition_](https://arxiv.org/abs/2310.10044)  arXiv preprint arXiv:2310.10044
 
 
 [28]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
@@ -27,12 +26,12 @@ author_profile: true
 
 ## Accepted/Published
 
-[26] J. Lu, J. Zhang, **C. Wang**, C. Deng. Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm. Signal Processing (to appear). 
+[26] J. Lu, J. Zhang, **C. Wang**, C. Deng. [_Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm_](https://doi.org/10.1016/j.sigpro.2024.109449). Signal Processing, 220, 109449, 2024. 
 
-[25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://arxiv.org/pdf/2308.04125) Journal of Scientific Computing (to appear).
+[25] **C. Wang**<sup>*</sup>, M. Yan, J. Yu. [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://doi.org/10.1007/s10915-024-02497-2) Journal of Scientific Computing, 99(32),2024.
 
 
-[24] H. Zheng, Y. Lou, G. Tian, **C. Wang**<sup>*</sup>. “A Scale-Invariant Relaxation in Low-rank Tensor Recovery with an Application to Tensor Completion”. SIAM Journal on Imaging Sciences (to appear). 
+[24] H. Zheng, Y. Lou, G. Tian, **C. Wang**<sup>*</sup>. [_A Scale-Invariant Relaxation in Low-rank Tensor Recovery with an Application to Tensor Completion_](https://epubs.siam.org/doi/abs/10.1137/23M1560847?journalCode=sjisbi). SIAM Journal on Imaging Sciences 17(1),756-783, 2024. 
 
 [23] T. Wang, J. Li, M. Ng, **C. Wang**<sup>*</sup>. [_Nonnegative Matrix Functional Factorization for Hyperspectral Unmixing with Non-uniform Spectral Sampling_](https://ieeexplore.ieee.org/document/10374135)  IEEE Transactions on Geoscience and Remote Sensing 62, 1-13, 2024.
 

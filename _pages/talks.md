@@ -11,6 +11,8 @@ author_profile: true
 
 {% endif %}
 
+- [SIAM Conference on Image Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79079) (IS24), Atlanta (May 2024)
+
 - Invited Talk, [CSIAM Annual Meeting](https://meeting.csiam.org.cn/#/2023/), Kuiming (Oct. 2023)
   
 - [International Congress on Industrial and Applied Mathematics](https://iciam2023.org/registered_data?id=00963#02395) (ICIAM2023), Tokyo (Aug. 2023)

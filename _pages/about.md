@@ -37,6 +37,8 @@ His research interests include scientific computing, compressed sensing, interdi
 # Recent News
 ---
 
+- May 2024, our work on [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations](http://arxiv.org/abs/2405.17818) was released in arXiv. 
+
 - Feb. 2024, our work on Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm  was accepted by Signal Processing. 
 
 - Feb. 2024, our work on [_Sorted L1/L2 Minimization for Sparse Signal Recovery_](https://link.springer.com/article/10.1007/s10915-024-02497-2)  was accepted by Journal of Scientific Computing. 

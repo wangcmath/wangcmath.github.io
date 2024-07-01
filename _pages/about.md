@@ -36,8 +36,9 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
+- Jul. 2024, our work on _Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data_ was accepted by the European Conference on Computer Vision (ECCV) 2024.
 
-- May 2024, our work on [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations](http://arxiv.org/abs/2405.17818) was released in arXiv. 
+- May 2024, our work on [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](http://arxiv.org/abs/2405.17818) was released in arXiv. 
 
 - Feb. 2024, our work on Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm  was accepted by Signal Processing. 
 

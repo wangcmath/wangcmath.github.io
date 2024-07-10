@@ -36,7 +36,7 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
-- Jul. 2024, our work on _Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data_ was accepted by the European Conference on Computer Vision (ECCV) 2024.
+- In Jul. 2024, our work on [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514) was published in Signal Processing; our work on _Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data_ was accepted by the European Conference on Computer Vision (ECCV) 2024.
 
 - May 2024, our work on [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](http://arxiv.org/abs/2405.17818) was released in arXiv. 
 

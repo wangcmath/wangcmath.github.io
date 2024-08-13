@@ -15,16 +15,18 @@ author_profile: true
 
 ## Preprints/Submitted
 
+[32] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. “Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations” arXiv preprint arXiv: 2405.17818
+
+[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
 
-[30]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
-
-
-[29] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[30] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. “Poissonian Image Restoration via the $L_1/L_2$-based minimization” Journal of Scientific Computing 2024 (to appear)
+
 
 [28] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
 

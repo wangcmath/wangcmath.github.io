@@ -15,7 +15,7 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[32] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. “Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations” arXiv preprint arXiv: 2405.17818
+[32] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_}(https://arxiv.org/abs/2405.17818) arXiv preprint arXiv: 2405.17818
 
 [31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
@@ -25,7 +25,7 @@ author_profile: true
 
 
 ## Accepted/Published
-[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. “Poissonian Image Restoration via the $L_1/L_2$-based minimization” Journal of Scientific Computing 2024 (to appear)
+[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. “Poissonian Image Restoration via the L1/L2-based minimization” Journal of Scientific Computing 2024 (to appear)
 
 
 [28] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)

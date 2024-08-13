@@ -30,7 +30,7 @@ author_profile: true
 
 [28] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
 
-[27]	L. Luo, Z. Tu, J. Lu<sup>*</sup>, **C. Wang**, C. Xu. [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514). Signal Processing (to appear) 
+[27]	L. Luo, Z. Tu, J. Lu<sup>*</sup>, **C. Wang**, C. Xu. [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514). Signal Processing, 109514, 2024. 
 
 
 [26] J. Lu, J. Zhang, **C. Wang**, C. Deng. [_Hyperspectral sparse fusion using adaptive total variation regularization and superpixel-based weighted nuclear norm_](https://doi.org/10.1016/j.sigpro.2024.109449). Signal Processing, 220, 109449, 2024. 

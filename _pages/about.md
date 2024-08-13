@@ -36,7 +36,7 @@ His research interests include scientific computing, compressed sensing, interdi
 
 # Recent News
 ---
-- Aug. 2024, our work on Poissonian Image Restoration via the $L_1/L_2$-based minimization was accepted by Journal of Scientific Computing. 
+- Aug. 2024, our work on Poissonian Image Restoration via the L1/L2-based minimization was accepted by Journal of Scientific Computing. 
 
 - Jul. 2024, our work on [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514) was published in Signal Processing; our work on _Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data_ was accepted by the European Conference on Computer Vision (ECCV) 2024.
 

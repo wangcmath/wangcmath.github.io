@@ -15,20 +15,24 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[32] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_}(https://arxiv.org/abs/2405.17818) arXiv preprint arXiv: 2405.17818
+[33] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_}(https://arxiv.org/abs/2405.17818) arXiv preprint arXiv: 2405.17818
 
-[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
+[32]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) arXiv preprint arXiv:2308.04095.
 
 
-[30] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[31] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
-[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. “Poissonian Image Restoration via the L1/L2-based minimization” Journal of Scientific Computing 2024 (to appear)
+
+[30] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
+
+[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. [_Poissonian Image Restoration via the L1/L2-based minimization](https://link.springer.com/article/10.1007/s10915-024-02657-4) Journal of Scientific Computing, 101:17, 2024.
 
 
-[28] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
+[28]	G. Li, Z, Tu, J. Lu, **C. Wang**, L. Shen. [_Multi-Dimensional Image Recovery via Self-Supervised Nonlinear Transform Based a Three-Directional Tensor Nuclear Norm_](https://global-sci.org/intro/article_detail/nmtma/23372.html#) Numerical Mathematics: Theory, Methods and Applications, 17(3), 727-750, 2024. 
+
 
 [27]	L. Luo, Z. Tu, J. Lu<sup>*</sup>, **C. Wang**, C. Xu. [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514). Signal Processing, 109514, 2024. 
 

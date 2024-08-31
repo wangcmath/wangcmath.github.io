@@ -28,7 +28,7 @@ author_profile: true
 
 [30] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
 
-[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. [_Poissonian Image Restoration via the L1/L2-based minimization](https://link.springer.com/article/10.1007/s10915-024-02657-4) Journal of Scientific Computing, 101:17, 2024.
+[29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. [_Poissonian Image Restoration via the L1/L2-based minimization_](https://link.springer.com/article/10.1007/s10915-024-02657-4) Journal of Scientific Computing, 101:17, 2024.
 
 
 [28]	G. Li, Z, Tu, J. Lu, **C. Wang**, L. Shen. [_Multi-Dimensional Image Recovery via Self-Supervised Nonlinear Transform Based a Three-Directional Tensor Nuclear Norm_](https://global-sci.org/intro/article_detail/nmtma/23372.html#) Numerical Mathematics: Theory, Methods and Applications, 17(3), 727-750, 2024. 

@@ -21,7 +21,9 @@ Special Issue: Multiple Sensors Fusion for Image Recognition,  Sensors, 2023
 
 ## Referee Service 
 ---
-- SIAM Journal on Imaging Sciences 
+- SIAM Journal on Imaging Sciences
+- Mathematical Programming
+- IEEE Transactions on Signal Processing (TSP)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Optics Express
 - Calcolo
@@ -46,24 +48,24 @@ Special Issue: Multiple Sensors Fusion for Image Recognition,  Sensors, 2023
 PhD students: 
 -	Yunshan Li (SUSTech, Sept. 2023 - Present)
 -	Ting Wang  (SUSTech, Sept. 2022 - Present)
--	Huiwen Zheng (SUSTech, May 2022 - Present)
--	Yaghoub Rahimi (UT Dallas, Oct. 2018 - Jun. 2019) 	 
--	Mujibur Chowdhury (UT Dallas, Oct. 2020 – Oct. 2021) 
--	Zhengfeng Lai (UC Davis, July. 2020 - July. 2022)
--	Gregory Rehm (UC Davis, Jan. 2021 – Jul. 2021)	
+-	Huiwen Zheng (SUSTech, May 2022 - Jun. 2024)
+
 
 MPhil students: 
+-	Yicheng Wu  (SUSTech, Sept. 2024 - Present)
 -	Zitian Ao  (SUSTech, Sept. 2023 - Present)
--	Xiaotong Wu  (SUSTech, Sept. 2022 - Present)
+-	Xiaotong Wu  (SUSTech, Sept. 2022 - Jun. 2024)
 -	Junjie Yu (SUSTech, Sept. 2021 - Jun. 2023)
--	Vishal Bhuvaneswari (UC Davis, Jan. 2021 – Jan. 2022)
 
 RAs:
--	Heyu Huang (SUSTech, May 2021 - Jan. 2022)
--	Shengjie Niu (SUSTech, Apr. 2021 - Present)
+- Zhenlin Luo (NUS, Aug. 2024 - Present)
+- Rongkun Zhu (Xidian U, Jun. 2024 - Jul. 2024)
+- Wang Ma (RPI, Jun. 2024 - Jul. 2024)
+- Shengjie Niu (HK PolyU, Jun. 2023 - Jul. 2023)
 
-Undergraduate Students: 
- Simin Du, Jinsong Zhou, Yulun Wu
+
+
+
 
 
 &nbsp;

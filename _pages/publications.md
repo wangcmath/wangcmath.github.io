@@ -24,7 +24,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing Quotient Regularization Model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)![image](https://github.com/user-attachments/assets/443391b4-b50a-4b1a-8dd4-e0eaa6fd9919)
+[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)![image](https://github.com/user-attachments/assets/443391b4-b50a-4b1a-8dd4-e0eaa6fd9919)
 
 
 
@@ -33,7 +33,7 @@ author_profile: true
 [29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. [_Poissonian Image Restoration via the L1/L2-based minimization_](https://link.springer.com/article/10.1007/s10915-024-02657-4) Journal of Scientific Computing, 101:17, 2024.
 
 
-[28]	G. Li, Z, Tu, J. Lu, **C. Wang**, L. Shen. [_Multi-Dimensional Image Recovery via Self-Supervised Nonlinear Transform Based a Three-Directional Tensor Nuclear Norm_](https://global-sci.org/intro/article_detail/nmtma/23372.html#) Numerical Mathematics: Theory, Methods and Applications, 17(3), 727-750, 2024. 
+[28]	G. Li, Z, Tu, J. Lu, **C. Wang**, L. Shen. [_Multi-dimensional image recovery via self-supervised nonlinear transform based a three-directional tensor nuclear norm_](https://global-sci.org/intro/article_detail/nmtma/23372.html#) Numerical Mathematics: Theory, Methods and Applications, 17(3), 727-750, 2024. 
 
 
 [27]	L. Luo, Z. Tu, J. Lu<sup>*</sup>, **C. Wang**, C. Xu. [_A nonlinear high-order transformations-based method for high-order tensor completion_](https://doi.org/10.1016/j.sigpro.2024.109514). Signal Processing, 109514, 2024. 

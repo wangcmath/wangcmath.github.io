@@ -24,7 +24,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)![image](https://github.com/user-attachments/assets/443391b4-b50a-4b1a-8dd4-e0eaa6fd9919)
+[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)
 
 
 

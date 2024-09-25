@@ -24,11 +24,13 @@ author_profile: true
 
 ## Accepted/Published
 
+[32] S. Niu<sup>#</sup>, L. Lin<sup>#</sup>, J. Huang, **C. Wang**<sup>*</sup>. “_OwMatch: conditional self-labeling with consistency for open-world semi-supervised learning_”. Neural Information Processing Systems (NeurIPS), 2024 (to appear)
+
 [31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)
 
 
 
-[30] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision 2024 (to appear)
+[30] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “Superpixel-informed implicit neural representation for multi-dimensional data”. European Conference on Computer Vision (ECCV) 2024 (to appear)
 
 [29] M. Chowdhury<sup>*</sup>, **C. Wang**, Y. Lou. [_Poissonian Image Restoration via the L1/L2-based minimization_](https://link.springer.com/article/10.1007/s10915-024-02657-4) Journal of Scientific Computing, 101:17, 2024.
 

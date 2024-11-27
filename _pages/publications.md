@@ -28,7 +28,7 @@ author_profile: true
 
 [32] S. Niu<sup>#</sup>, L. Lin<sup>#</sup>, J. Huang, **C. Wang**<sup>*</sup>. “_OwMatch: conditional self-labeling with consistency for open-world semi-supervised learning_”. Neural Information Processing Systems (NeurIPS), 2024.
 
-[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://arxiv.org/pdf/2308.04095) Inverse Problems and Imaging. 2024 (to appear)
+[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://www.aimsciences.org/article/doi/10.3934/ipi.2024041) Inverse Problems and Imaging. 2024 (to appear)
 
 
 

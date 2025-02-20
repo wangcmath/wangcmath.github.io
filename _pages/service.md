@@ -10,6 +10,8 @@ Special Issue: Multiple Sensors Fusion for Image Recognition,  Sensors, 2023
 
 ## Conference Organization 
 ---
+- International Workshop on Image Processing and Machine Learning, Shenzhen, 2025
+- Advanced Methods and Theories in High-dimensional Image Processing, Kunming (Tianyuan Math Center), 2025
 - Min-symposium in International Congress on Industrial and Applied Mathematics (ICIAM2023), Tokyo, 2023  
 - Min-symposium in 2022 SIAM Conference on Imaging Science (IS22) online, 2022
 - UCD AI & Biomedical Imaging Workshop at UC Davis, online, 2021
@@ -46,7 +48,7 @@ Special Issue: Multiple Sensors Fusion for Image Recognition,  Sensors, 2023
 ## Mentorship
 ---
 PhD students: 
--	Yunshan Li (SUSTech, Sept. 2023 - Present)
+- Rongmei Liang (SUSTech, start from Sept. 2025) 
 -	Ting Wang  (SUSTech, Sept. 2022 - Present)
 -	Huiwen Zheng (SUSTech, May 2022 - Jun. 2024)
 

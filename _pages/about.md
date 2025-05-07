@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71faca08-6b62-43e3-9fb9-17b15053fd2e)---
+
 permalink: /
 title: "Chao Wang (王超)"
 excerpt: "About me"

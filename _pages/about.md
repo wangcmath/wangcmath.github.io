@@ -36,7 +36,7 @@ His research interests include scientific computing, deep learning, tensor recov
 
 # Recent News
 ---
-- May 2025, our work on "Tensor robust principal component analysis via the tensor nuclear over Frobenius norm" was accepted by Journal of Scientific Computing; 
+- May 2025, our work on "Tensor robust principal component analysis via the tensor nuclear over Frobenius norm" was accepted by Journal of Scientific Computing.
 
 
 - Sep. 2024, our work on "OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning" was accepted by NeurIPS; 

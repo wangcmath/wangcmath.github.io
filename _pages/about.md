@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/71faca08-6b62-43e3-9fb9-17b15053fd2e)---
 permalink: /
 title: "Chao Wang (王超)"
 excerpt: "About me"
@@ -36,6 +36,8 @@ His research interests include scientific computing, deep learning, tensor recov
 
 # Recent News
 ---
+- May 2025, our work on "Tensor robust principal component analysis via the tensor nuclear over Frobenius norm" was accepted by Journal of Scientific Computing; 
+
 
 - Sep. 2024, our work on "OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning" was accepted by NeurIPS; 
 our work on "Minimizing Quotient Regularization Model" was accepted by Inverse Problems and Imaging. 

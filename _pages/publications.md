@@ -15,23 +15,25 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[36] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
+[37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
 
-[35] M. Lu, Z. Ao, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. PiLocNet: [_Physics-informed neural network on 3D localization with rotating point spread function_](https://arxiv.org/pdf/2410.13295) arXiv preprint arXiv:2410.13295
+[36] M. Lu, Z. Ao, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. PiLocNet: [_Physics-informed neural network on 3D localization with rotating point spread function_](https://arxiv.org/pdf/2410.13295) arXiv preprint arXiv:2410.13295
 
-[34] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://arxiv.org/abs/2405.17818v2) arXiv preprint arXiv: 2405.17818v2
+[35] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://arxiv.org/abs/2405.17818v2) arXiv preprint arXiv: 2405.17818v2
 
 
-[33] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[34] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
 
-[32] S. Niu<sup>#</sup>, L. Lin<sup>#</sup>, J. Huang, **C. Wang**<sup>*</sup>. “[_OwMatch: conditional self-labeling with consistency for open-world semi-supervised learning_](https://openreview.net/pdf/3dcbcaa02ca1db047267a26a4853ed26ee59bd15.pdf)”. Neural Information Processing Systems (NeurIPS), 2024.
+[33] H. Zheng, Y. Lou, G. Tian, C. Wang*. “Tensor robust principal component analysis via the tensor nuclear over Frobenius norm”. Journal of Scientific Computing, 2025. (to appear)
 
-[31]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://www.aimsciences.org/article/doi/10.3934/ipi.2024041) Inverse Problems and Imaging. 2024
+[32]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://www.aimsciences.org/article/doi/10.3934/ipi.2024041) Inverse Problems and Imaging. 2025.
 
+
+[31] S. Niu<sup>#</sup>, L. Lin<sup>#</sup>, J. Huang, **C. Wang**<sup>*</sup>. “[_OwMatch: conditional self-labeling with consistency for open-world semi-supervised learning_](https://openreview.net/pdf/3dcbcaa02ca1db047267a26a4853ed26ee59bd15.pdf)”. Neural Information Processing Systems (NeurIPS), 2024.
 
 
 [30] J. Li, X. Zhao<sup>*</sup>, J. Wang, **C. Wang**, M. Wang. “[_Superpixel-informed implicit neural representation for multi-dimensional data_](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00234.pdf)”. European Conference on Computer Vision (ECCV) 2024.

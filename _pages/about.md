@@ -36,6 +36,8 @@ His research interests include scientific computing, deep learning, tensor recov
 
 # Recent News
 ---
+- Jun. 2025, our work on "PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function" was accepted by Applied Optics.
+
 - May 2025, our work on "Tensor robust principal component analysis via the tensor nuclear over Frobenius norm" was accepted by Journal of Scientific Computing.
 
 

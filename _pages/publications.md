@@ -29,7 +29,7 @@ author_profile: true
 
 [34] M. Lu, Z. Ao, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. PiLocNet: [_Physics-informed neural network on 3D localization with rotating point spread function_](https://arxiv.org/pdf/2410.13295) Applied Optics, 2025 (to appear)
 
-[33] H. Zheng, Y. Lou, G. Tian, C. Wang*. “Tensor robust principal component analysis via the tensor nuclear over Frobenius norm”. Journal of Scientific Computing, 2025. (to appear)
+[33] H. Zheng, Y. Lou, G. Tian, C. Wang*. “[_Tensor robust principal component analysis via the tensor nuclear over Frobenius norm_](https://doi.org/10.1007/s10915-025-02944-8)”. Journal of Scientific Computing, 104, 26, 2025.
 
 [32]	**C. Wang**, JF. Aujol, G. Gilboa, Y. Lou<sup>*</sup>. [_Minimizing quotient regularization model_](https://www.aimsciences.org/article/doi/10.3934/ipi.2024041) Inverse Problems and Imaging. 2025.
 

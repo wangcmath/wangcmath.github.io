@@ -27,7 +27,7 @@ Shenzhen 518055, P.R. China
 
 **There are some openings for graduate students (MSc, Ph.D.), research assistants, and post-docs  in my team. Please contact me if you are interested.**
 
-Chao Wang is an Assistant Professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California Davis. He worked with Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/). He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. [Raymond Chan](https://scholars.cityu.edu.hk/en/persons/hon-fu-raymond-chan(98f1cf10-a01a-4642-8470-c48b0e977687).html) and worked closely with Prof. [Robert Plemmons](https://faculty.sites.wfu.edu/plemmons/) at Wake Forest University. Previously, he worked with Prof. [Yifei Lou](https://sites.google.com/site/louyifei/)  at the University of Texas (UT) Dallas and Prof. [Xun Jia](https://www.hopkinsmedicine.org/profiles/details/xun-jia) at UT Southwestern Medical Center.
+Chao Wang is an Assistant Professor at Southern University of Science and Technology (SUSTech). Before joining SUSTech, Chao was a postdoctoral researcher at the University of California, Davis. He worked with Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/). He completed his Ph.D. in Mathematics from The Chinese University of Hong Kong under the direction of Prof. [Raymond Chan](https://scholars.cityu.edu.hk/en/persons/hon-fu-raymond-chan(98f1cf10-a01a-4642-8470-c48b0e977687).html) and worked closely with Prof. [Robert Plemmons](https://faculty.sites.wfu.edu/plemmons/) at Wake Forest University. Previously, he worked with Prof. [Yifei Lou](https://sites.google.com/site/louyifei/)  at the University of Texas (UT) Dallas and Prof. [Xun Jia](https://www.hopkinsmedicine.org/profiles/details/xun-jia) at UT Southwestern Medical Center.
 
 
 His research interests include scientific computing, deep learning, tensor recovery, compressed sensing, interdisciplinary mathematical modeling, convex and nonconvex optimization, and hyperspectral and medical imaging.
@@ -36,6 +36,9 @@ His research interests include scientific computing, deep learning, tensor recov
 
 # Recent News
 ---
+- Oct. 2025,  [_The Second International Workshop on Image Processing and Machine Learning_](https://stat-ds.sustech.edu.cn/portal/meeting/index.html?id=16) was successfully held at SUSTech; our work on "LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting”  was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
+
+
 - Jul. 2025, our work on "Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations" was accepted by International Journal of Computer Vision. 
 
 - Jun. 2025, our work on "PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function" was accepted by Applied Optics.

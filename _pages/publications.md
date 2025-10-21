@@ -15,18 +15,21 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
+[38] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
  
 
-[36] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[37] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
 
-[35] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://arxiv.org/abs/2405.17818v2) International Journal of Computer Vision, 2025 (to appear)
+[36] Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, [_LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253)  IEEE Transactions on Geoscience and Remote Sensing, 2025 https://doi.org/ 10.1109/TGRS.2025.3623253
 
-[34] M. Lu, Z. Ao, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. PiLocNet: [_Physics-informed neural network on 3D localization with rotating point spread function_](https://arxiv.org/pdf/2410.13295) Applied Optics, 2025 (to appear)
+
+[35] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://doi.org/10.1007/s11263-025-02540-1) International Journal of Computer Vision, 2025 https://doi.org/10.1007/s11263-025-02540-1
+
+[34] M. Lu, Z. Ao, **C. Wang**<sup>*</sup>, S. Prasad, R. Chan. PiLocNet: [_Physics-informed neural network on 3D localization with rotating point spread function_](https://arxiv.org/pdf/2410.13295) Applied Optics, 2025 (18), 5139-5148. 
 
 [33] H. Zheng, Y. Lou, G. Tian, C. Wang*. “[_Tensor robust principal component analysis via the tensor nuclear over Frobenius norm_](https://doi.org/10.1007/s10915-025-02944-8)”. Journal of Scientific Computing, 104, 26, 2025.
 

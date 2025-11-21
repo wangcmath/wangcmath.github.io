@@ -15,6 +15,8 @@ author_profile: true
 
 ## Preprints/Submitted
 
+[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270)arXiv preprint arXiv: 2511.14270
+
 [38] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
  
 
@@ -24,7 +26,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[36] Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, [_LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253)  IEEE Transactions on Geoscience and Remote Sensing, 2025 https://doi.org/ 10.1109/TGRS.2025.3623253
+[36] T. Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, [_LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253)  IEEE Transactions on Geoscience and Remote Sensing, 2025 https://doi.org/ 10.1109/TGRS.2025.3623253
 
 
 [35] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. [_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://doi.org/10.1007/s11263-025-02540-1) International Journal of Computer Vision, 2025 https://doi.org/10.1007/s11263-025-02540-1

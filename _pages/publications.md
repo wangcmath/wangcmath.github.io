@@ -17,14 +17,15 @@ author_profile: true
 
 [39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270)arXiv preprint arXiv: 2511.14270
 
-[38] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) arXiv preprint arXiv: 2412.18717 
  
-
-[37] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[38] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) SIAM Journal on Scientific Computing (to appear)
+
 
 [36] T. Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, [_LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253)  IEEE Transactions on Geoscience and Remote Sensing, 2025 https://doi.org/ 10.1109/TGRS.2025.3623253
 

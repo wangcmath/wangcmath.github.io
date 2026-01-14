@@ -36,6 +36,9 @@ His research interests include scientific computing, deep learning, tensor recov
 
 # Recent News
 ---
+
+- Jan. 2026, our work on "Variational Bayesian Inference for Tensor Robust Principal Component Analysis" was accepted by SIAM Journal on Scientific Computing. 
+
 - Oct. 2025,  [_The Second International Workshop on Image Processing and Machine Learning_](https://stat-ds.sustech.edu.cn/portal/meeting/index.html?id=16) was successfully held at SUSTech; our work on "LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting”  was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 
 

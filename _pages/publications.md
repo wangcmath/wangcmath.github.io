@@ -15,7 +15,9 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270)arXiv preprint arXiv: 2511.14270
+[40] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
+
+[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270)arXiv preprint arXiv: 2511.14270. 
 
  
 [38] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.

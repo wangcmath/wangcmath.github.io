@@ -35,7 +35,10 @@ His research interests include scientific computing, deep learning, tensor recov
 
 
 # Recent News
----
+--- 
+
+- Feb. 2026, our work on [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) was posted in arXiv. 
+
 
 - Jan. 2026, our work on "Variational Bayesian Inference for Tensor Robust Principal Component Analysis" was accepted by SIAM Journal on Scientific Computing. 
 

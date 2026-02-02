@@ -26,6 +26,8 @@ author_profile: true
 
 ## Accepted/Published
 
+[38] T. Wang, Z. Yan, H. Pan, K. Zhang, M. Ng, X. Yu<sup>*</sup>, **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>. _Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks_ Patterns (Cell Press) (to appear)
+
 [37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. [_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717) SIAM Journal on Scientific Computing (to appear)
 
 

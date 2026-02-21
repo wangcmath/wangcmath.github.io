@@ -37,12 +37,12 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
-- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Pattens (Cell Press); one paper was posted in arXiv.
+- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was posted in arXiv.
 
-&nbsp -  "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);
-&nbsp - xx
+<pre> -  "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);</pre>
+<pre> - xx </pre>
 
-&nbsp -  [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
+<pre> -  [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) arXiv. </pre>
 
 
 

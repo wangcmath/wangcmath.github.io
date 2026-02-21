@@ -44,10 +44,10 @@ His research interests include scientific computing, deep learning, tensor recov
     - "Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features" CVPR;
     - "Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery" CVPR; 
     - "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);
-    - [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
+    - [_"Improving classifier-free guidance of flow matching via manifold projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
 
 
-- Jan. 2026, our work on "Variational Bayesian Inference for Tensor Robust Principal Component Analysis" was accepted by SIAM Journal on Scientific Computing. 
+- Jan. 2026, our work on "Variational Bayesian inference for tensor robust principal component analysis" was accepted by SIAM Journal on Scientific Computing. 
 
 - Oct. 2025,  [_The Second International Workshop on Image Processing and Machine Learning_](https://stat-ds.sustech.edu.cn/portal/meeting/index.html?id=16) was successfully held at SUSTech; our work on "LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting”  was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 

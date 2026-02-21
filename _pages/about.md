@@ -39,11 +39,10 @@ His research interests include scientific computing, deep learning, tensor recov
 
 - Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was posted in arXiv.
 
-<li> "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press); </li>
+-- "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press); 
 
-<li> xx </li>
-<li> [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) arXiv. </li>
 
+-- [_"Improving Classifier-Free Guidance of Flow Matching via Manifold Projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
 
 
 - Jan. 2026, our work on "Variational Bayesian Inference for Tensor Robust Principal Component Analysis" was accepted by SIAM Journal on Scientific Computing. 

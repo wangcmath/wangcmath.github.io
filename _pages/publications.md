@@ -15,16 +15,25 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[40] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
+[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
 
-[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270)arXiv preprint arXiv: 2511.14270. 
 
  
-[38] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[42] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+
+[41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. “Reparameterized tensor ring functional decomposition for multi-dimensional data recovery” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+
+[40]	J. Ke, Y. Xu, **C. Wang**, Y. Wen. “Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+
+
+
+[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. [_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270) The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+
 
 [38] T. Wang, Z. Yan, H. Pan, K. Zhang, M. Ng, X. Yu<sup>*</sup>, **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>. _Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks_ Patterns (Cell Press) (to appear)
 

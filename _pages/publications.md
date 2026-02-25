@@ -15,15 +15,17 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
+[44] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
 
 
  
-[42] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[43] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “3DeepRep: 3D Deep Low-rank Tensor Representation for Hyperspectral Image Inpainting” Neurocomputing 2026 (to appear)
 
 
 [41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. “Reparameterized tensor ring functional decomposition for multi-dimensional data recovery” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)

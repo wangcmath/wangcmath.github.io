@@ -37,13 +37,14 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
-- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was posted on arXiv.
+- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was accepted by Neurocomputing; one paper was posted on arXiv.
 
     
     - "Reparameterized tensor ring functional decomposition for multi-dimensional data recovery" CVPR;
     - "Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features" CVPR;
     - "Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery" CVPR; 
     - "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);
+    - "3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting" Neurocomputing;
     - [_"Improving classifier-free guidance of flow matching via manifold projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
 
 

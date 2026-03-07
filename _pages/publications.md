@@ -28,9 +28,9 @@ author_profile: true
 [42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “3DeepRep: 3D Deep Low-rank Tensor Representation for Hyperspectral Image Inpainting” Neurocomputing 2026 (to appear)
 
 
-[41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. “Reparameterized tensor ring functional decomposition for multi-dimensional data recovery” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+[41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. [_Reparameterized tensor ring functional decomposition for multi-dimensional data recovery_](https://arxiv.org/abs/2603.01034) The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
 
-[40]	J. Ke, Y. Xu, **C. Wang**, Y. Wen. “Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+[40]	J. Ke, Y. Xu, **C. Wang**, Y. Wen. [_Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features_](https://arxiv.org/abs/2603.01028) The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
 
 
 

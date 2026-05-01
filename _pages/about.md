@@ -37,7 +37,11 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
-- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was accepted by Neurocomputing; one paper was posted on arXiv.
+- May 2026, our work on "[_"Improving classifier-free guidance of flow matching via manifold projection"_](https://arxiv.org/pdf/2601.21892) " was accepted by The International Conference on Machine Learning (ICML); our work on "Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling" was accepted by Journal of Mathematical Imaging and Vision. 
+
+
+
+- Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was accepted by Neurocomputing.
 
     
     - "Reparameterized tensor ring functional decomposition for multi-dimensional data recovery" CVPR;
@@ -45,7 +49,7 @@ His research interests include scientific computing, deep learning, tensor recov
     - "Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery" CVPR; 
     - "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);
     - "3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting" Neurocomputing;
-    - [_"Improving classifier-free guidance of flow matching via manifold projection"_](https://arxiv.org/pdf/2601.21892) arXiv. 
+    - arXiv. 
 
 
 - Jan. 2026, our work on "Variational Bayesian inference for tensor robust principal component analysis" was accepted by SIAM Journal on Scientific Computing. 

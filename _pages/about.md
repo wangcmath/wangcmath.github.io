@@ -38,29 +38,26 @@ His research interests include scientific computing, deep learning, tensor recov
 --- 
 
 - May 2026, One paper was accepted by ICML and one paper was accepted by JMIV. 
-
-    - [_"Improving classifier-free guidance of flow matching via manifold projection"_](https://arxiv.org/pdf/2601.21892) " ICML
-    -  "Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling"  Journal of Mathematical Imaging and Vision. 
+    - "[Improving classifier-free guidance of flow matching via manifold projection](https://arxiv.org/pdf/2601.21892) " ICML
+    -  "[Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling](https://www.researchsquare.com/article/rs-8451652/v1)"  Journal of Mathematical Imaging and Vision. 
 
 
 
 - Feb. 2026, three papers were accepted in CVPR; one paper was accepted by Patterns (Cell Press); one paper was accepted by Neurocomputing.
-
-    
-    - "Reparameterized tensor ring functional decomposition for multi-dimensional data recovery" CVPR;
-    - "Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features" CVPR;
-    - "Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery" CVPR; 
-    - "Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks” Patterns (Cell Press);
-    - "3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting" Neurocomputing;
+    - "[Reparameterized tensor ring functional decomposition for multi-dimensional data recovery](https://arxiv.org/abs/2603.01034)" CVPR;
+    - "[Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features](https://arxiv.org/abs/2603.01028)" CVPR;
+    - "[Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery](https://arxiv.org/abs/2511.14270)" CVPR; 
+    - "[Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks](https://www.cell.com/patterns/fulltext/S2666-3899(26)00024-3)” Patterns (Cell Press);
+    - "[3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576)" Neurocomputing;
    
 
 
-- Jan. 2026, our work on "Variational Bayesian inference for tensor robust principal component analysis" was accepted by SIAM Journal on Scientific Computing. 
+- Jan. 2026, our work on "[Variational Bayesian inference for tensor robust principal component analysis](https://arxiv.org/abs/2412.18717)" was accepted by SIAM Journal on Scientific Computing. 
 
 - Oct. 2025,  [_The Second International Workshop on Image Processing and Machine Learning_](https://stat-ds.sustech.edu.cn/portal/meeting/index.html?id=16) was successfully held at SUSTech; our work on "LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting”  was accepted by IEEE Transactions on Geoscience and Remote Sensing. 
 
 
-- Jul. 2025, our work on "Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations" was accepted by International Journal of Computer Vision. 
+- Jul. 2025, our work on "[Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations](https://link.springer.com/article/10.1007/s11263-025-02540-1)" was accepted by International Journal of Computer Vision. 
 
 - Jun. 2025, our work on "PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function" was accepted by Applied Optics.
 

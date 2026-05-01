@@ -15,15 +15,21 @@ author_profile: true
 
 ## Preprints/Submitted
 
-[44] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  arXiv preprint arXiv: 2601.21892. 
+
 
 
  
-[43] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+[45] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
 
 
 
 ## Accepted/Published
+
+[44] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling.”  Journal of Mathematical Imaging and Vision 2026 (to appear)
+
+
+[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> [_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)  The International Conference on Machine Learning (ICML) 2026. 
+
 
 [42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “3DeepRep: 3D Deep Low-rank Tensor Representation for Hyperspectral Image Inpainting” Neurocomputing 2026 (to appear)
 

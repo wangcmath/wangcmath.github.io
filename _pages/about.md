@@ -40,7 +40,7 @@ His research interests include scientific computing, deep learning, tensor recov
 - May 2026, One paper was accepted by ICML; one paper was accepted by JMIV; one paper was accepted by SP.
     - "[Improving classifier-free guidance of flow matching via manifold projection](https://arxiv.org/pdf/2601.21892) " ICML
     -  "[Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling](https://www.researchsquare.com/article/rs-8451652/v1)"  Journal of Mathematical Imaging and Vision.
-    -  "[Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution](https://arxiv.org/abs/2508.03049)" Signal Processing. 
+    -  "[Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution](https://www.sciencedirect.com/science/article/pii/S0165168426002070)" Signal Processing. 
 
 
 

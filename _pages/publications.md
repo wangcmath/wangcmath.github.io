@@ -25,7 +25,7 @@ author_profile: true
 
 ## Accepted/Published
 
-[45] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution. "Signal Processing 2026 (to appear)
+[45] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "[_Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution](https://www.sciencedirect.com/science/article/pii/S0165168426002070). "Signal Processing 2026 (to appear)
 
 [44] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “[_Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling_](https://www.researchsquare.com/article/rs-8451652/v1).”  Journal of Mathematical Imaging and Vision 2026 (to appear)
 

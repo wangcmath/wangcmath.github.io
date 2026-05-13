@@ -25,15 +25,15 @@ author_profile: true
 
 ## Accepted/Published
 
-[45] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "[_Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution](https://www.sciencedirect.com/science/article/pii/S0165168426002070). "Signal Processing 2026 (to appear)
+[45] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "[_Low-rankness and smoothness meet subspace: a unified tensor regularization for hyperspectral image super-resolution](https://www.sciencedirect.com/science/article/pii/S0165168426002070). "Signal Processing 2026 (to appear)
 
 [44] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “[_Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling_](https://www.researchsquare.com/article/rs-8451652/v1).”  Journal of Mathematical Imaging and Vision 2026 (to appear)
 
 
-[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving Classifier-Free Guidance of Flow Matching via Manifold Projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML) 2026. 
+[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving classifier-free guidance of flow matching via manifold projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML) 2026. 
 
 
-[42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “[_3DeepRep: 3D Deep Low-rank Tensor Representation for Hyperspectral Image Inpainting_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576).” Neurocomputing 2026 
+[42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “[_3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576).” Neurocomputing 2026 
 
 
 [41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. "[_Reparameterized tensor ring functional decomposition for multi-dimensional data recovery_](https://arxiv.org/abs/2603.01034)." The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
@@ -42,7 +42,7 @@ author_profile: true
 
 
 
-[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. "[_Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery_](https://arxiv.org/pdf/2511.14270).” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. "[_Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery_](https://arxiv.org/pdf/2511.14270).” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
 
 
 [38] T. Wang, Z. Yan, H. Pan, K. Zhang, M. Ng, X. Yu<sup>*</sup>, **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>. "[_Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks_](https://www.cell.com/patterns/fulltext/S2666-3899(26)00024-3).” Patterns (Cell Press) 
@@ -50,7 +50,7 @@ author_profile: true
 [37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717).” SIAM Journal on Scientific Computing (to appear)
 
 
-[36] T. Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, "[_LoR-SGS: Hyperspectral Image Compression via Low-rank Spectral Gaussian Splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253).”  IEEE Transactions on Geoscience and Remote Sensing, 2025.  
+[36] T. Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, "[_LoR-SGS: hyperspectral image compression via low-rank spectral Gaussian splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253).”  IEEE Transactions on Geoscience and Remote Sensing, 2025.  
 
 
 [35] T. Wang<sup>#</sup>, Z. Yan<sup>#</sup>, J. Li, X. Zhao, **C. Wang**<sup>*</sup>, M. Ng. "[_Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations_](https://doi.org/10.1007/s11263-025-02540-1).” International Journal of Computer Vision, 2025 https://doi.org/10.1007/s11263-025-02540-1

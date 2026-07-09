@@ -25,29 +25,30 @@ author_profile: true
 
 ## Accepted/Published
 
-[45] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "[_Low-rankness and smoothness meet subspace: a unified tensor regularization for hyperspectral image super-resolution_](https://www.sciencedirect.com/science/article/pii/S0165168426002070). "Signal Processing 2026.
+[45] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://epubs.siam.org/doi/full/10.1137/24M1700752).” SIAM Journal on Scientific Computing, 48(4) C684--C707, 2026. 
 
-[44] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “[_Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling_](https://www.researchsquare.com/article/rs-8451652/v1).”  Journal of Mathematical Imaging and Vision 2026 (to appear)
+[44] J. Zhang, C. Yi, M. Ma, M. He, **C. Wang**<sup>*</sup> "[_Low-rankness and smoothness meet subspace: a unified tensor regularization for hyperspectral image super-resolution_](https://www.sciencedirect.com/science/article/pii/S0165168426002070). "Signal Processing 2026.
 
-
-[43] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving classifier-free guidance of flow matching via manifold projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML) 2026. 
-
-
-[42]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “[_3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576).” Neurocomputing 2026 
+[43] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “[_Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling_](https://link.springer.com/article/10.1007/s10851-026-01302-z).”  Journal of Mathematical Imaging and Vision, 68,24, 2026. 
 
 
-[41]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. "[_Reparameterized tensor ring functional decomposition for multi-dimensional data recovery_](https://arxiv.org/abs/2603.01034)." The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
-
-[40]	J. Ke, Y. Xu, **C. Wang**, Y. Wen. "[_Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features_](https://arxiv.org/abs/2603.01028)." The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+[42] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving classifier-free guidance of flow matching via manifold projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML) 2026. 
 
 
+[41]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “[_3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576).” Neurocomputing, 2026. 
 
-[39] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. "[_Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery_](https://arxiv.org/pdf/2511.14270).” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (to appear)
+
+[40]	Y. Xu, J. Ke, Y. Wen, **C. Wang**<sup>*</sup>. "[_Reparameterized tensor ring functional decomposition for multi-dimensional data recovery_](https://arxiv.org/abs/2603.01034)." The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+
+[39]	J. Ke, Y. Xu, **C. Wang**, Y. Wen. "[_Content-aware frequency encoding for implicit neural representations with Fourier-Chebyshev features_](https://arxiv.org/abs/2603.01028)." The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 
 
-[38] T. Wang, Z. Yan, H. Pan, K. Zhang, M. Ng, X. Yu<sup>*</sup>, **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>. "[_Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks_](https://www.cell.com/patterns/fulltext/S2666-3899(26)00024-3).” Patterns (Cell Press) 
 
-[37] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://arxiv.org/abs/2412.18717).” SIAM Journal on Scientific Computing (to appear)
+[38] Y. Zeng,  X. Zhao, W. Wu, T. Ji, **C. Wang**. "[_Gaussian splatting-based low-rank tensor representation for multi-dimensional image recovery_](https://arxiv.org/pdf/2511.14270).” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 
+
+
+[37] T. Wang, Z. Yan, H. Pan, K. Zhang, M. Ng, X. Yu<sup>*</sup>, **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>. "[_Data-driven deformation correction in X-ray spectro-tomography with implicit neural networks_](https://www.cell.com/patterns/fulltext/S2666-3899(26)00024-3).” Patterns (Cell Press), 7(5), 101515, 2026. 
+  
 
 
 [36] T. Li, T. Wang, X. Zhao, **C. Wang**<sup>*</sup>, "[_LoR-SGS: hyperspectral image compression via low-rank spectral Gaussian splatting_](https://doi.org/ 10.1109/TGRS.2025.3623253).”  IEEE Transactions on Geoscience and Remote Sensing, 2025.  

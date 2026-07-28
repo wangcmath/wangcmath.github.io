@@ -37,6 +37,9 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
+- Jul.2026, our work on "Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise
+" was accepted by Journal of Mathematical Imaging and Vision.
+
 - May 2026, One paper was accepted by ICML; one paper was accepted by JMIV; one paper was accepted by SP.
     - "[Improving classifier-free guidance of flow matching via manifold projection](https://arxiv.org/pdf/2601.21892) " ICML
     -  "[Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling](https://www.researchsquare.com/article/rs-8451652/v1)"  Journal of Mathematical Imaging and Vision.

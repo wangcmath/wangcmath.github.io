@@ -13,17 +13,19 @@ author_profile: true
 
  <sup>*</sup> indicates corresponding author; <sup>#</sup> equally contributed 
 
-## Preprints/Submitted
+<!---## Preprints/Submitted---> 
 
 
 
 
  
-[46] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.
+<!---[46] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.---> 
 
 
 
 ## Accepted/Published
+[46] [1]	Z. Yan, T. Wang,  **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>, “Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise.” Journal of Mathematical Imaging and Vision 2026. (to appear).
+
 
 [45] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://epubs.siam.org/doi/full/10.1137/24M1700752).” SIAM Journal on Scientific Computing, 48(4) C684--C707, 2026. 
 
@@ -32,7 +34,7 @@ author_profile: true
 [43] Y. Wu, R. He<sup>*</sup>, Q. Ding, X. Zhang, **C. Wang**<sup>*</sup> “[_Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling_](https://link.springer.com/article/10.1007/s10851-026-01302-z).”  Journal of Mathematical Imaging and Vision, 68,24, 2026. 
 
 
-[42] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving classifier-free guidance of flow matching via manifold projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML) 2026. 
+[42] J. Cai, H. Liu, Z. Su,**C. Wang**<sup>*</sup> "[_Improving classifier-free guidance of flow matching via manifold projection_](https://arxiv.org/pdf/2601.21892)."  The International Conference on Machine Learning (ICML), 2026. 
 
 
 [41]	Y. Li, W. Gong, Q. Wang, **C. Wang**<sup>*</sup>, L. Yang<sup>*</sup>. “[_3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting_](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005576).” Neurocomputing, 2026. 

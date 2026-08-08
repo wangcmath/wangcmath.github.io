@@ -37,6 +37,8 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
+- Aug. 2026, our work on "Unbiased Risk Estimation for Multiplicative Noise Removal" was accepted by the SIAM Journal on Imaging Sciences.
+
 - Jul.2026, our work on "Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise
 " was accepted by Journal of Mathematical Imaging and Vision.
 

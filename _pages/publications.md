@@ -24,7 +24,11 @@ author_profile: true
 
 
 ## Accepted/Published
-[46] [1]	Z. Yan, T. Wang,  **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>, “Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise.” Journal of Mathematical Imaging and Vision 2026. (to appear).
+
+[47] Z.Yan, T. Wang, J. Li, **C. Wang**<sup>*</sup>, “_Unbiased risk estimation for multiplicative noise removal_”, SIAM Journal on Imaging Sciences, (to appear)
+
+
+[46]	Z. Yan, T. Wang,  **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>, “_Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise_” Journal of Mathematical Imaging and Vision (to appear).
 
 
 [45] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://epubs.siam.org/doi/full/10.1137/24M1700752).” SIAM Journal on Scientific Computing, 48(4) C684--C707, 2026. 

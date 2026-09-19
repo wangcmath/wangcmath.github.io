@@ -37,6 +37,10 @@ His research interests include scientific computing, deep learning, tensor recov
 # Recent News
 --- 
 
+- Sept. 2026, our work on "[Particle Dynamics of Flow Matching and Classifier-Free Guidance from a Stagewise Geometry Perspective](https://arxiv.org/abs/2609.06947)
+" was posted on arXiv. 
+
+
 - Aug. 2026, our work on "Unbiased Risk Estimation for Multiplicative Noise Removal" was accepted by the SIAM Journal on Imaging Sciences.
 
 - Jul.2026, our work on "Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise

@@ -16,11 +16,12 @@ author_profile: true
 <!---## Preprints/Submitted---> 
 
 
-
+## Preprints/Submitted
 
  
 <!---[46] GB Rehm, **C. Wang**, I Cortes-Puch, CN Chuah, J Adams. [_Deep Learning-Based Detection of the Acute Respiratory Distress Syndrome: What Are the Models Learning?_](https://arxiv.org/pdf/2109.12323) arXiv preprint arXiv:2109.12323.---> 
 
+[48] J. Cai, Z. Su, **C. Wang**<sup>*</sup> "[Particle Dynamics of Flow Matching and Classifier-Free Guidance from a Stagewise Geometry Perspective](https://arxiv.org/abs/2609.06947)" arXiv, 2026. 
 
 
 ## Accepted/Published
@@ -28,7 +29,7 @@ author_profile: true
 [47] Z.Yan, T. Wang, J. Li, **C. Wang**<sup>*</sup>, “_Unbiased risk estimation for multiplicative noise removal_”, SIAM Journal on Imaging Sciences, (to appear)
 
 
-[46]	Z. Yan, T. Wang,  **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>, “_Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise_” Journal of Mathematical Imaging and Vision (to appear).
+[46]	Z. Yan, T. Wang,  **C. Wang**<sup>*</sup>, J. Li<sup>*</sup>, “_Unbiased and Nonlocal Linear Regression for Video Denoising under Multiplicative Noise_” Journal of Mathematical Imaging and Vision.
 
 
 [45] **C. Wang**, H. Zheng, R. Chan, Y. Wen<sup>*</sup>. "[_Variational Bayesian inference for tensor robust principal component analysis_](https://epubs.siam.org/doi/full/10.1137/24M1700752).” SIAM Journal on Scientific Computing, 48(4) C684--C707, 2026. 
